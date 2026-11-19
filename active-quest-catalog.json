@@ -1,0 +1,282 @@
+{
+  "schema": 1,
+  "character": "Chubby Cheekz",
+  "sourceSnapshot": "quests-chubby-cheekz.json",
+  "generatedOn": "2026-11-19",
+  "notes": "Only IDs actually present in the player's active quest snapshot. Names/zones from public WoW Forever quest references. Unresolved IDs are intentionally left blank; this is not a quest completion tracker.",
+  "quests": [
+    {
+      "id": 196,
+      "name": "Raptor Mastery",
+      "zone": "Stranglethorn Vale",
+      "verification": "matched",
+      "source": "https://questing.wiki/wow-forever/quests/196/"
+    },
+    {
+      "id": 209,
+      "name": "Skullsplitter Tusks",
+      "zone": "Stranglethorn Vale",
+      "verification": "matched",
+      "source": "https://questing.wiki/wow-forever/quests/209/"
+    },
+    {
+      "id": 213,
+      "name": "Hostile Takeover",
+      "zone": "Stranglethorn Vale",
+      "verification": "matched",
+      "source": "https://questing.wiki/wow-forever/quests/213/"
+    },
+    {
+      "id": 338,
+      "name": "The Green Hills of Stranglethorn",
+      "zone": "Stranglethorn Vale",
+      "verification": "matched",
+      "source": "https://questing.wiki/wow-forever/quests/338/"
+    },
+    {
+      "id": 572,
+      "name": "Mok'thardin's Enchantment",
+      "zone": "Stranglethorn Vale",
+      "verification": "matched",
+      "source": "https://questing.wiki/wow-forever/quests/572/"
+    },
+    {
+      "id": 577,
+      "name": "Some Assembly Required",
+      "zone": "Stranglethorn Vale",
+      "verification": "matched",
+      "source": "https://questing.wiki/wow-forever/quests/577/"
+    },
+    {
+      "id": 580,
+      "name": "Whiskey Slim's Lost Grog",
+      "zone": "Stranglethorn Vale / Hinterlands",
+      "verification": "matched",
+      "source": "https://questing.wiki/wow-forever/quests/580/"
+    },
+    {
+      "id": 595,
+      "name": "The Bloodsail Buccaneers",
+      "zone": "Stranglethorn Vale",
+      "verification": "matched",
+      "source": "https://questing.wiki/wow-forever/quests/595/"
+    },
+    {
+      "id": 605,
+      "name": "Singing Blue Shards",
+      "zone": "Stranglethorn Vale",
+      "verification": "matched",
+      "source": "https://questing.wiki/wow-forever/quests/605/"
+    },
+    {
+      "id": 606,
+      "name": "Scaring Shaky",
+      "zone": "Stranglethorn Vale",
+      "verification": "matched",
+      "source": "https://questing.wiki/wow-forever/quests/606/"
+    },
+    {
+      "id": 635,
+      "name": "Crystal in the Mountains",
+      "zone": "Arathi Highlands",
+      "verification": "matched",
+      "source": "https://questing.wiki/wow-forever/quests/635/"
+    },
+    {
+      "id": 644,
+      "name": "Sigil of Trollbane",
+      "zone": "Arathi Highlands",
+      "verification": "matched",
+      "source": "https://questing.wiki/wow-forever/quests/644/"
+    },
+    {
+      "id": 670,
+      "name": "Sunken Treasure",
+      "zone": "Arathi Highlands",
+      "verification": "matched",
+      "source": "https://questing.wiki/wow-forever/quests/670/"
+    },
+    {
+      "id": 679,
+      "name": "Call to Arms",
+      "zone": "Arathi Highlands",
+      "verification": "matched",
+      "source": "https://questing.wiki/wow-forever/quests/679/"
+    },
+    {
+      "id": 680,
+      "name": "The Real Threat",
+      "zone": "Arathi Highlands",
+      "verification": "matched",
+      "source": "https://questing.wiki/wow-forever/quests/680/"
+    },
+    {
+      "id": 687,
+      "name": "Theldurin the Lost",
+      "zone": "Arathi Highlands / Badlands",
+      "verification": "matched",
+      "source": "https://questing.wiki/wow-forever/quests/687/"
+    },
+    {
+      "id": 701,
+      "name": "Guile of the Raptor",
+      "zone": "Arathi Highlands",
+      "verification": "matched",
+      "source": "https://questing.wiki/wow-forever/quests/701/"
+    },
+    {
+      "id": 1048,
+      "name": "Into The Scarlet Monastery",
+      "zone": "Scarlet Monastery / Undercity",
+      "verification": "matched",
+      "source": "https://questing.wiki/wow-forever/quests/1048/"
+    },
+    {
+      "id": 1106,
+      "name": "Martek the Exiled",
+      "zone": "Badlands",
+      "verification": "matched",
+      "source": "https://questing.wiki/wow-forever/quests/1106/"
+    },
+    {
+      "id": 1116,
+      "name": "Dream Dust in the Swamp",
+      "zone": "Dustwallow Marsh / Stranglethorn Vale",
+      "verification": "matched",
+      "source": "https://questing.wiki/wow-forever/quests/1116/"
+    },
+    {
+      "id": 1187,
+      "name": "Razzeric's Tweaking",
+      "zone": "Dustwallow Marsh / Thousand Needles",
+      "verification": "matched",
+      "source": "https://questing.wiki/wow-forever/quests/1187/"
+    },
+    {
+      "id": 1712,
+      "name": "Cyclonian",
+      "zone": "Alterac Mountains / Warrior",
+      "verification": "matched",
+      "source": "https://questing.wiki/wow-forever/quests/1712/"
+    },
+    {
+      "id": 1842,
+      "name": "Satyr Hooves",
+      "zone": "Warrior class quest / Ashenvale",
+      "verification": "matched",
+      "source": "https://questing.wiki/wow-forever/quests/1842/"
+    },
+    {
+      "id": 1846,
+      "name": "Dragonmaw Shinbones",
+      "zone": "Warrior class quest / Wetlands",
+      "verification": "matched",
+      "source": "https://questing.wiki/wow-forever/quests/1846/"
+    },
+    {
+      "id": 2751,
+      "name": "Barbaric Battlements",
+      "zone": "Blacksmithing / Orgrimmar",
+      "verification": "matched",
+      "source": "https://questing.wiki/wow-forever/quests/2751/"
+    },
+    {
+      "id": 6521,
+      "name": "An Unholy Alliance",
+      "zone": "Razorfen Downs / Undercity",
+      "verification": "matched",
+      "source": "https://questing.wiki/wow-forever/quests/6521/"
+    },
+    {
+      "id": 6561,
+      "name": "Blackfathom Villainy",
+      "zone": "Blackfathom Deeps",
+      "verification": "matched",
+      "source": "https://questing.wiki/wow-forever/quests/6561/"
+    },
+    {
+      "id": 79236,
+      "name": null,
+      "zone": null,
+      "verification": "unresolved",
+      "source": null
+    },
+    {
+      "id": 94930,
+      "name": null,
+      "zone": null,
+      "verification": "unresolved",
+      "source": null
+    },
+    {
+      "id": 95141,
+      "name": null,
+      "zone": null,
+      "verification": "unresolved",
+      "source": null
+    },
+    {
+      "id": 95143,
+      "name": null,
+      "zone": null,
+      "verification": "unresolved",
+      "source": null
+    },
+    {
+      "id": 95144,
+      "name": null,
+      "zone": null,
+      "verification": "unresolved",
+      "source": null
+    },
+    {
+      "id": 95773,
+      "name": null,
+      "zone": null,
+      "verification": "unresolved",
+      "source": null
+    },
+    {
+      "id": 95775,
+      "name": null,
+      "zone": null,
+      "verification": "unresolved",
+      "source": null
+    },
+    {
+      "id": 95789,
+      "name": null,
+      "zone": null,
+      "verification": "unresolved",
+      "source": null
+    },
+    {
+      "id": 95791,
+      "name": "Quest #95791",
+      "zone": null,
+      "verification": "partial",
+      "source": "https://foreverdb.net/quest/95791-quest-95791"
+    },
+    {
+      "id": 96774,
+      "name": null,
+      "zone": null,
+      "verification": "unresolved",
+      "source": null
+    },
+    {
+      "id": 97196,
+      "name": null,
+      "zone": null,
+      "verification": "unresolved",
+      "source": null
+    },
+    {
+      "id": 97884,
+      "name": null,
+      "zone": null,
+      "verification": "unresolved",
+      "source": null
+    }
+  ]
+}
