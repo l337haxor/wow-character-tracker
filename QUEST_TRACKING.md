@@ -12,7 +12,7 @@ Copy the entire `addon/ChubbyQuestTracker` directory to:
 
 `World of Warcraft/_forever_/Interface/AddOns/ChubbyQuestTracker/`
 
-Check that both the `.toc` and `.lua` files are directly inside that directory. Restart WoW Forever and enable the addon. Type `/cqt` for counts and log out normally to save. **Reloading the UI or logging out** writes SavedVariables to disk.
+Check that both the `.toc` and `.lua` files are directly inside that directory. Restart WoW Forever and enable the addon. Type `/cqt` once when you want a snapshot. The addon no longer scans on logout or quest-log events. Use `/reload` or log out normally to persist SavedVariables. If the client freezes, check whether the SavedVariables file exists before retrying, and disable the addon if necessary.
 
 The file should be under:
 
