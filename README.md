@@ -23,3 +23,10 @@ Source implementation: [stefan-mostert/wow-forever-armory](https://github.com/st
 ## Quest history (optional addon)
 
 See [QUEST_TRACKING.md](QUEST_TRACKING.md) for the WoW Forever quest-history addon, setup instructions and importer. The addon saves completed and active quest IDs locally; quest data is **not automatically uploaded** by the hourly Armory workflow. After converting and committing `quests-chubby-cheekz.json`, quest-aware recommendations can use it.
+
+## Questing recommendations
+
+- [Level 41 quest and dungeon route](LEVELING_GUIDE.md) — grouped from this character's active quest IDs
+- [Active quest ID lookup](active-quest-catalog.json) — 27 quest names/zones matched, 12 IDs still unresolved in public references
+
+These are snapshot-based recommendations, not an automatic quest-objective tracker. The addon still exports only accepted and completed IDs.
