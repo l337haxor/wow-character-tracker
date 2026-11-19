@@ -1,56 +1,115 @@
-# Chubby Cheekz — questing and dungeon advisor
+# Chubby Cheekz — leveling and dungeon advisor
 
-**Character:** level 41 Horde Troll Warrior (Protection) · **sources:** `chubby-cheekz.json` and `quests-chubby-cheekz.json` captured 2026-11-19.
+> Automatically generated from the latest published Armory data and manually exported quest history.
+> Quest objectives, exact dungeon suitability and rewards are not independently verified.
 
-**Quest progress:** 492 completed; 39 active. Every active ID has a quest title and reference URL in [quest_catalog.json](quest_catalog.json). This is a snapshot, **not real-time objective progress**. The quest IDs come from the in-game addon, not a public Armory endpoint.
+**Character:** level 41 Troll Warrior · 492 completed quests · 39 active quests
 
-## Recommended next session
+**Armory fetched:** 2026-11-19 20:21 UTC · **Quest export saved:** 2026-11-19 19:54 UTC
 
-### 1. Stranglethorn Vale — clear clusters before leaving
+**Weapon:** Vanquisher's Sword · **Off-hand/shield:** Vile Protector
 
-- **Raptor Mastery #196** and **Mok'thardin's Enchantment #572:** both involve Jungle Stalkers, so kill/loot for both at once. Turn in to Hemet at Nesingwary's camp and Mok'thardin in Grom'gol.
-- **Hostile Takeover #213** and **Some Assembly Required #577:** Venture Co. geologists and Snapjaw Crocolisks near Lake Nazferiti; do on the same northern Stranglethorn excursion.
-- **Scaring Shaky #606**, **Singing Blue Shards #605**, **Skullsplitter Tusks #209**, **The Bloodsail Buccaneers #595:** finish in geographically sensible batches where their objectives overlap. Many have Booty Bay hand-ins.
-- **Whiskey Slim's Lost Grog #580** and **The Green Hills of Stranglethorn #338:** collect opportunistically; avoid lengthy dedicated detours for missing pages or bottles.
-- **Cherry for Your Thoughts? #79236:** take a Cherry Grog to Tokal in Booty Bay (27.0, 77.3); short completion if you're there.
-- **Enemies in the Water #95773:** collect Brinescale Tridents while in the region. This leads into the Drowned City chain.
+## Suggested next areas
 
-### 2. Drowned City — high-value one-time dungeon cleanup
+- **Stranglethorn Vale:** 11 active quest(s); combine nearby objectives.
+- **Drowned City:** 4 active quest(s); dungeon quests; confirm group suitability.
+- **Arathi Highlands:** 6 active quest(s); combine nearby objectives.
+- **Razorfen Downs:** 1 active quest(s); dungeon quests; confirm group suitability.
+- **Scarlet Monastery:** 1 active quest(s); dungeon quests; confirm group suitability.
 
-You have **four active quests inside** the new Drowned City: **The Drowned City #95775** (tablet rubbings), **Shady Saltseers #95789** (10 artifacts), **The Saltseer Captain #95791** (3 Saltseer Coroners + Captain Dreadrise), and **Ancient Gurubashi Idol #96774** (recover idol). **Enemies in the Water #95773** is a related outdoor precursor. At level 41 you are slightly above the dungeon's published level 35–40 range; run once with all objectives, then assess whether a repeat is worth it.
+## Active quests grouped by area
 
-### 3. Arathi Highlands — Hammerfall and Stromgarde
+### Stranglethorn Vale (11)
 
-- **Call to Arms #679**, **The Real Threat #680**, **Sigil of Trollbane #644:** cluster your Stromgarde outing; group for elite/dangerous named targets where needed. Check exact enemy levels.
-- **Guile of the Raptor #701:** Highland raptor hearts.
-- **Crystal in the Mountains #635:** use the Pendant of Myzrael at the shards.
-- **Sunken Treasure #670:** travel hand-in at Faldir's Cove.
-- **Theldurin the Lost #687** and **Finding Tan'jani #95143:** coordinate referrals and trips with Badlands/Riverglades.
+- **[Raptor Mastery](https://questing.wiki/wow-forever/quests/196/)** (#196): Combine Jungle Stalkers with Mok'thardin's feather collection
+- **[Skullsplitter Tusks](https://questing.wiki/wow-forever/quests/209/)** (#209): Skullsplitter troll hunting; check combat level in camp
+- **[Hostile Takeover](https://questing.wiki/wow-forever/quests/213/)** (#213): Venture Co. geologists near Lake Nazferiti
+- **[The Green Hills of Stranglethorn](https://questing.wiki/wow-forever/quests/338/)** (#338): Complete from missing pages while questing, not a dedicated detour
+- **[Mok'thardin's Enchantment](https://questing.wiki/wow-forever/quests/572/)** (#572): Jungle Stalker Feathers; pair with Raptor Mastery #196
+- **[Some Assembly Required](https://questing.wiki/wow-forever/quests/577/)** (#577): Snapjaw Crocolisk Skins; pair with Lake Nazferiti travel
+- **[Whiskey Slim's Lost Grog](https://questing.wiki/wow-forever/quests/580/)** (#580): Collect bottles opportunistically on the coast
+- **[The Bloodsail Buccaneers](https://questing.wiki/wow-forever/quests/595/)** (#595): Booty Bay Bloodsail chain; check current stage
+- **[Singing Blue Shards](https://questing.wiki/wow-forever/quests/605/)** (#605): Basilisk crystal shards
+- **[Scaring Shaky](https://questing.wiki/wow-forever/quests/606/)** (#606): Mistvale gorilla giblets to Shaky in Booty Bay
+- **[Enemies in the Water](https://www.forever-xp.com/quests/95773/)** (#95773): Brinescale Skirmishers, precursor to a Drowned City chain
 
-### 4. Choose one dungeon alternative, not repeated low-level farming
+### Drowned City (4)
 
-- **Razorfen Downs:** currently appropriate for level 41; active **The Coldbringer's Eye #97196** requires an item from RFD. **An Unholy Alliance #6521** is connected with the entrance area.
-- **Scarlet Monastery:** finish **Into The Scarlet Monastery #1048** if you still need any of its four named bosses. You already have Vanquisher's Sword; judge the trip by quest completion, not the old Sword of Omen upgrade.
-- **Blackfathom Deeps:** **Blackfathom Villainy #6561** is a low-level legacy quest at 41; don't prioritize a full run solely for XP.
+- **[The Drowned City](https://www.forever-xp.com/quests/95775/)** (#95775): Find and copy tablets in the dungeon
+- **[Shady Saltseers](https://www.forever-xp.com/quests/95789/)** (#95789): Collect ten artifacts in the dungeon; possible belt/helm rewards
+- **[The Saltseer Captain](https://www.forever-xp.com/quests/95791/)** (#95791): Kill three Saltseer Coroners and Captain Dreadrise
+- **[Ancient Gurubashi Idol](https://www.forever-xp.com/quests/96774/)** (#96774): Recover idol in dungeon; Horde quest
 
-### 5. Riverglades and professions
+### Arathi Highlands (6)
 
-- **Armory of Sunnyglade #97884:** investigate the Tremayne Family Blacksmithing Techniques tome at Sunnyglade. Especially relevant because you're leveling Blacksmithing; **do not assume it awards a usable crafting plan** until the reward is confirmed.
-- **Report to Rog'mar #95141**, **Finding Tan'jani #95143**, **Lost Shipping Crate #94930**, **Overseas Delivery #95144:** make these hand-ins when you already travel to the Riverglades. Their listed quest XP is small versus travel time.
-- **Barbaric Battlements #2751:** Blacksmithing quest from Orokk Omosh in Orgrimmar; plans reward is **Barbaric Iron Breastplate**. Evaluate materials first.
+- **[Crystal in the Mountains](https://questing.wiki/wow-forever/quests/635/)** (#635): Pendant of Myzrael item-triggered quest
+- **[Sigil of Trollbane](https://questing.wiki/wow-forever/quests/644/)** (#644): Prince Galen in Stromgarde; group if needed
+- **[Sunken Treasure](https://questing.wiki/wow-forever/quests/670/)** (#670): Deliver Seahorn's letter to Shakes O'Breen in Arathi
+- **[Call to Arms](https://questing.wiki/wow-forever/quests/679/)** (#679): Boulderfist kills in Stromgarde
+- **[The Real Threat](https://questing.wiki/wow-forever/quests/680/)** (#680): Or'Kalar in Stromgarde; group recommended
+- **[Guile of the Raptor](https://questing.wiki/wow-forever/quests/701/)** (#701): Collect Highland raptor hearts
 
-## Lower priority or travel errands
+### Razorfen Downs (1)
 
-- **Cyclonian #1712:** old Warrior Whirlwind weapon chain, not a priority for your current one-hand/shield setup.
-- **Satyr Hooves #1842**, **Dragonmaw Shinbones #1846:** older level-30 Warrior armor chains; clear only if you want those rewards/completion.
-- **Martek the Exiled #1106:** delivery to Badlands; combine with the Badlands leg.
-- **Dream Dust in the Swamp #1116:** Swamp of Sorrows whelp drops; complete when traveling there.
-- **Razzeric's Tweaking #1187:** Dustwallow crashed zeppelin errand; combine with a Dustwallow trip.
+- **[The Coldbringer's Eye](https://www.forever-xp.com/quests/97196/)** (#97196): Recover the Coldbringer's Eye in RFD
 
-## Data limitations
+### Scarlet Monastery (1)
 
-- Quest snapshots give **quest IDs only**; they cannot tell which kill counters or items are already complete.
-- Forever community quest records may have differences in pickup, rewards and map positions. Follow in-game quest descriptions where they differ.
-- **Quest snapshots are manually updated** by running /cqt, reloading, then importing and committing the SavedVariables export. The Armory workflow only refreshes character information.
-- Current level and gear change independently of this report. Check the latest Armory before making a new plan.
-- Sources: quest links in [quest_catalog.json](quest_catalog.json), [Questing.wiki](https://questing.wiki/wow-forever/quests/), [Forever XP](https://www.forever-xp.com/quests/), [Drowned City guide](https://www.method.gg/wow-forever/dungeons/the-drowned-city), [Razorfen Downs guide](https://www.method.gg/wow-forever/dungeons/razorfen-downs).
+- **[Into The Scarlet Monastery](https://questing.wiki/wow-forever/quests/1048/)** (#1048): Kill Loksey, Herod, Mograine and Whitemane; includes multiple wings
+
+### Riverglades (5)
+
+- **[Lost Shipping Crate](https://www.forever-xp.com/quests/94930/)** (#94930): Deliver crate to Friz Frazzlespark at Powderfuse Port; low XP
+- **[Report to Rog'mar](https://www.forever-xp.com/quests/95141/)** (#95141): Speak to Krom'rosh in Rog'mar; use when visiting Riverglades
+- **[Finding Tan'jani](https://www.forever-xp.com/quests/95143/)** (#95143): Find Tan'jani in Rog'mar; combine Riverglades trip
+- **[Overseas Delivery](https://www.forever-xp.com/quests/95144/)** (#95144): Deliver Fizzgrimble crate to Powderfuse Port; combine travel
+- **[Armory of Sunnyglade](https://www.forever-xp.com/quests/97884/)** (#97884): Recover Tremayne Family Blacksmithing Techniques; interesting for Blacksmithing
+
+### Badlands (2)
+
+- **[Theldurin the Lost](https://questing.wiki/wow-forever/quests/687/)** (#687): Horde referral from Arathi toward Theldurin
+- **[Martek the Exiled](https://questing.wiki/wow-forever/quests/1106/)** (#1106): Deliver Fizzle's letter to Martek
+
+### Alterac Mountains (1)
+
+- **[Cyclonian](https://questing.wiki/wow-forever/quests/1712/)** (#1712): Warrior Whirlwind weapon chain; limited value for sword-and-shield
+
+### Blackfathom Deeps (1)
+
+- **[Blackfathom Villainy](https://questing.wiki/wow-forever/quests/6561/)** (#6561): Older low-level dungeon quest; low leveling priority
+
+### Booty Bay (Stranglethorn Vale) (1)
+
+- **[Cherry for Your Thoughts?](https://www.forever-xp.com/quests/79236/)** (#79236): Give Cherry Grog to Tokal; short turn-in
+
+### Durotar / class quest (1)
+
+- **[Satyr Hooves](https://questing.wiki/wow-forever/quests/1842/)** (#1842): Older Brutal Gauntlets material quest; low-level
+
+### Dustwallow Marsh (1)
+
+- **[Razzeric's Tweaking](https://questing.wiki/wow-forever/quests/1187/)** (#1187): Retrieve Seaforium Booster from zeppelin wreck
+
+### Orgrimmar / Blacksmithing (1)
+
+- **[Barbaric Battlements](https://questing.wiki/wow-forever/quests/2751/)** (#2751): Rewards Plans: Barbaric Iron Breastplate; check materials
+
+### Razorfen Downs entrance (1)
+
+- **[An Unholy Alliance](https://questing.wiki/wow-forever/quests/6521/)** (#6521): Ambassador Malcin outside RFD; older quest
+
+### Swamp of Sorrows (1)
+
+- **[Dream Dust in the Swamp](https://questing.wiki/wow-forever/quests/1116/)** (#1116): Collect ten dream dust from Swamp whelps and return to Booty Bay
+
+### Undercity / class quest (1)
+
+- **[Dragonmaw Shinbones](https://questing.wiki/wow-forever/quests/1846/)** (#1846): Older Brutal Legguards material quest; low-level
+
+## Limitations
+
+- **Quest progress is not automatically synced.** Re-export with /cqt and commit the updated JSON.
+- Active quests may already have completed objectives awaiting turn-in; this export has no objective counters.
+- Catalog names, zones and notes are community-derived and must be checked in game.
+- This generator cannot discover new unaccepted quests or independently validate dungeon levels and rewards.
+- Unmapped active quest IDs: none.

@@ -12,7 +12,7 @@
   "guild": "WASTEMANS",
   "guildSlug": "wastemans",
   "guildServer": null,
-  "lastLogin": 1795116196000,
+  "lastLogin": 1795118108000,
   "region": "us",
   "server": "normal",
   "serverName": null,
@@ -532,7 +532,7 @@
       ]
     ]
   },
-  "fetchedAt": 1795116998457,
+  "fetchedAt": 1795119718109,
   "fromCache": false,
   "raceRanks": null
 }
