@@ -1,6 +1,13 @@
 name: Update Armory
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - quests-chubby-cheekz.json
+      - quest_catalog.json
+      - build_leveling_advisor.py
+      - tests/test_build_leveling_advisor.py
   schedule:
     - cron: '23 * * * *'
 
