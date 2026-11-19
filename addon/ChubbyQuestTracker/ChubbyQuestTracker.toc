@@ -1,0 +1,7 @@
+## Interface: 16001
+## Title: Chubby Quest Tracker
+## Notes: Stores completed and active WoW Forever quest IDs for an offline JSON export.
+## Version: 0.1.0
+## SavedVariablesPerCharacter: ChubbyQuestTrackerDB
+
+ChubbyQuestTracker.lua
