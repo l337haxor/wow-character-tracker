@@ -1,0 +1,538 @@
+{
+  "schema": 10,
+  "blizzardId": 7332859,
+  "name": "Chubby Cheekz",
+  "level": 41,
+  "race": "Troll",
+  "raceId": 8,
+  "className": "Warrior",
+  "classId": 1,
+  "faction": "HORDE",
+  "gender": "FEMALE",
+  "guild": "WASTEMANS",
+  "guildSlug": "wastemans",
+  "guildServer": null,
+  "lastLogin": 1795116196000,
+  "region": "us",
+  "server": "normal",
+  "serverName": null,
+  "serverType": "normal",
+  "avatar": "https://render.worldofwarcraft.com/forever-us/character/251/7332859-avatar.jpg",
+  "render": "https://render.worldofwarcraft.com/forever-us/character/251/7332859-main-raw.png",
+  "items": [
+    {
+      "slot": "HEAD",
+      "slotName": "Head",
+      "inventoryType": "HEAD",
+      "id": 274291,
+      "name": "Polished Skullcap",
+      "quality": "RARE",
+      "ilvl": 36,
+      "icon": "https://wow.zamimg.com/images/wow/icons/large/inv_helmet_16.jpg",
+      "setName": null,
+      "setPieces": [],
+      "enchant": null,
+      "enchantId": null,
+      "gems": [],
+      "socketBonus": null
+    },
+    {
+      "slot": "NECK",
+      "slotName": "Neck",
+      "inventoryType": "NECK",
+      "id": 274385,
+      "name": "Abomination Chain",
+      "quality": "RARE",
+      "ilvl": 42,
+      "icon": "https://wow.zamimg.com/images/wow/icons/large/inv_belt_18.jpg",
+      "setName": null,
+      "setPieces": [],
+      "enchant": null,
+      "enchantId": null,
+      "gems": [],
+      "socketBonus": null
+    },
+    {
+      "slot": "SHOULDER",
+      "slotName": "Shoulders",
+      "inventoryType": "SHOULDER",
+      "id": 279842,
+      "name": "Battle Spaulders",
+      "quality": "RARE",
+      "ilvl": 36,
+      "icon": "https://wow.zamimg.com/images/wow/icons/large/inv_shoulder_23.jpg",
+      "setName": null,
+      "setPieces": [],
+      "enchant": null,
+      "enchantId": null,
+      "gems": [],
+      "socketBonus": null
+    },
+    {
+      "slot": "SHIRT",
+      "slotName": "Shirt",
+      "inventoryType": "BODY",
+      "id": 6125,
+      "name": "Brawler's Harness",
+      "quality": "COMMON",
+      "ilvl": 1,
+      "icon": "https://wow.zamimg.com/images/wow/icons/large/inv_chest_leather_04.jpg",
+      "setName": null,
+      "setPieces": [],
+      "enchant": null,
+      "enchantId": null,
+      "gems": [],
+      "socketBonus": null
+    },
+    {
+      "slot": "CHEST",
+      "slotName": "Chest",
+      "inventoryType": "CHEST",
+      "id": 7133,
+      "name": "Brutal Hauberk",
+      "quality": "RARE",
+      "ilvl": 30,
+      "icon": "https://wow.zamimg.com/images/wow/icons/large/inv_chest_chain_07.jpg",
+      "setName": null,
+      "setPieces": [],
+      "enchant": null,
+      "enchantId": null,
+      "gems": [],
+      "socketBonus": null
+    },
+    {
+      "slot": "WAIST",
+      "slotName": "Waist",
+      "inventoryType": "WAIST",
+      "id": 6742,
+      "name": "Stonefist Girdle",
+      "quality": "RARE",
+      "ilvl": 36,
+      "icon": "https://wow.zamimg.com/images/wow/icons/large/inv_belt_35.jpg",
+      "setName": null,
+      "setPieces": [],
+      "enchant": null,
+      "enchantId": null,
+      "gems": [],
+      "socketBonus": null
+    },
+    {
+      "slot": "LEGS",
+      "slotName": "Legs",
+      "inventoryType": "LEGS",
+      "id": 15470,
+      "name": "Plainsguard Leggings",
+      "quality": "UNCOMMON",
+      "ilvl": 29,
+      "icon": "https://wow.zamimg.com/images/wow/icons/large/inv_pants_03.jpg",
+      "setName": null,
+      "setPieces": [],
+      "enchant": null,
+      "enchantId": null,
+      "gems": [],
+      "socketBonus": null
+    },
+    {
+      "slot": "FEET",
+      "slotName": "Feet",
+      "inventoryType": "FEET",
+      "id": 4076,
+      "name": "Mail Combat Boots",
+      "quality": "UNCOMMON",
+      "ilvl": 35,
+      "icon": "https://wow.zamimg.com/images/wow/icons/large/inv_boots_07.jpg",
+      "setName": null,
+      "setPieces": [],
+      "enchant": null,
+      "enchantId": null,
+      "gems": [],
+      "socketBonus": null
+    },
+    {
+      "slot": "WRIST",
+      "slotName": "Wrist",
+      "inventoryType": "WRIST",
+      "id": 251965,
+      "name": "Undead Knight's Bracers",
+      "quality": "UNCOMMON",
+      "ilvl": 36,
+      "icon": "https://wow.zamimg.com/images/wow/icons/large/inv_bracer_16.jpg",
+      "setName": null,
+      "setPieces": [],
+      "enchant": null,
+      "enchantId": null,
+      "gems": [],
+      "socketBonus": null
+    },
+    {
+      "slot": "HANDS",
+      "slotName": "Hands",
+      "inventoryType": "HAND",
+      "id": 6906,
+      "name": "Algae Fists",
+      "quality": "RARE",
+      "ilvl": 28,
+      "icon": "https://wow.zamimg.com/images/wow/icons/large/inv_gauntlets_10.jpg",
+      "setName": null,
+      "setPieces": [],
+      "enchant": null,
+      "enchantId": null,
+      "gems": [],
+      "socketBonus": null
+    },
+    {
+      "slot": "FINGER_1",
+      "slotName": "Ring 1",
+      "inventoryType": "FINGER",
+      "id": 10710,
+      "name": "Dragonclaw Ring",
+      "quality": "UNCOMMON",
+      "ilvl": 39,
+      "icon": "https://wow.zamimg.com/images/wow/icons/large/inv_jewelry_ring_04.jpg",
+      "setName": null,
+      "setPieces": [],
+      "enchant": null,
+      "enchantId": null,
+      "gems": [],
+      "socketBonus": null
+    },
+    {
+      "slot": "FINGER_2",
+      "slotName": "Ring 2",
+      "inventoryType": "FINGER",
+      "id": 274078,
+      "name": "Boar Signet",
+      "quality": "UNCOMMON",
+      "ilvl": 32,
+      "icon": "https://wow.zamimg.com/images/wow/icons/large/inv_jewelry_ring_26.jpg",
+      "setName": null,
+      "setPieces": [],
+      "enchant": null,
+      "enchantId": null,
+      "gems": [],
+      "socketBonus": null
+    },
+    {
+      "slot": "TRINKET_1",
+      "slotName": "Trinket 1",
+      "inventoryType": "TRINKET",
+      "id": 280766,
+      "name": "Satchel of Potions",
+      "quality": "UNCOMMON",
+      "ilvl": 33,
+      "icon": "https://wow.zamimg.com/images/wow/icons/large/inv_misc_bag_08.jpg",
+      "setName": null,
+      "setPieces": [],
+      "enchant": null,
+      "enchantId": null,
+      "gems": [],
+      "socketBonus": null
+    },
+    {
+      "slot": "TRINKET_2",
+      "slotName": "Trinket 2",
+      "inventoryType": "TRINKET",
+      "id": 276895,
+      "name": "Transformative Cocoon",
+      "quality": "UNCOMMON",
+      "ilvl": 30,
+      "icon": "https://wow.zamimg.com/images/wow/icons/large/inv_misc_web_02.jpg",
+      "setName": null,
+      "setPieces": [],
+      "enchant": null,
+      "enchantId": null,
+      "gems": [],
+      "socketBonus": null
+    },
+    {
+      "slot": "BACK",
+      "slotName": "Back",
+      "inventoryType": "CLOAK",
+      "id": 4643,
+      "name": "Grimsteel Cape",
+      "quality": "UNCOMMON",
+      "ilvl": 35,
+      "icon": "https://wow.zamimg.com/images/wow/icons/large/inv_misc_cape_02.jpg",
+      "setName": null,
+      "setPieces": [],
+      "enchant": null,
+      "enchantId": null,
+      "gems": [],
+      "socketBonus": null
+    },
+    {
+      "slot": "MAIN_HAND",
+      "slotName": "Main Hand",
+      "inventoryType": "WEAPON",
+      "id": 10823,
+      "name": "Vanquisher's Sword",
+      "quality": "RARE",
+      "ilvl": 44,
+      "icon": "https://wow.zamimg.com/images/wow/icons/large/inv_sword_35.jpg",
+      "setName": null,
+      "setPieces": [],
+      "enchant": null,
+      "enchantId": null,
+      "gems": [],
+      "socketBonus": null
+    },
+    {
+      "slot": "OFF_HAND",
+      "slotName": "Off Hand",
+      "inventoryType": "SHIELD",
+      "id": 7747,
+      "name": "Vile Protector",
+      "quality": "RARE",
+      "ilvl": 40,
+      "icon": "https://wow.zamimg.com/images/wow/icons/large/inv_shield_02.jpg",
+      "setName": null,
+      "setPieces": [],
+      "enchant": null,
+      "enchantId": null,
+      "gems": [],
+      "socketBonus": null
+    },
+    {
+      "slot": "RANGED",
+      "slotName": "Ranged",
+      "inventoryType": "THROWN",
+      "id": 287066,
+      "name": "Wizlo's Tuning Wrench",
+      "quality": "UNCOMMON",
+      "ilvl": 30,
+      "icon": "https://wow.zamimg.com/images/wow/icons/large/inv_misc_wrench_01.jpg",
+      "setName": null,
+      "setPieces": [],
+      "enchant": null,
+      "enchantId": null,
+      "gems": [],
+      "socketBonus": null
+    }
+  ],
+  "averageIlvl": 35,
+  "gearscore": 371,
+  "stats": {
+    "health": 2201,
+    "power": 100,
+    "powerType": "Rage",
+    "strength": 130,
+    "agility": 62,
+    "stamina": 170,
+    "intellect": 25,
+    "spirit": 45,
+    "spellPower": 0,
+    "healing": 0,
+    "spellCrit": 0,
+    "spellHaste": 0,
+    "spellPenetration": 0,
+    "manaRegen": 0,
+    "attackPower": 391,
+    "meleeCrit": 4.28,
+    "meleeHaste": 0,
+    "rangedCrit": 3.6,
+    "armor": 2593,
+    "defense": 222,
+    "dodge": 5.24,
+    "parry": 10.68,
+    "block": 11.68
+  },
+  "talents": [
+    {
+      "active": true,
+      "trees": [
+        {
+          "id": 161,
+          "name": "Arms",
+          "points": 5,
+          "talents": [
+            {
+              "id": 105957,
+              "spellId": 16462,
+              "name": "Deflection",
+              "description": "Increases your Parry chance by 5%.",
+              "rank": 5
+            }
+          ]
+        },
+        {
+          "id": 164,
+          "name": "Fury",
+          "points": 0,
+          "talents": []
+        },
+        {
+          "id": 163,
+          "name": "Protection",
+          "points": 27,
+          "talents": [
+            {
+              "id": 105974,
+              "spellId": 12301,
+              "name": "Improved Bloodrage",
+              "description": "Increases all the Rage generated by your Bloodrage ability by 50%.",
+              "rank": 2
+            },
+            {
+              "id": 105976,
+              "spellId": 12298,
+              "name": "Shield Specialization",
+              "description": "Increases your chance to Block attacks with your shield by 5% and grants you a 100% chance to generate 5 Rage when you Block.",
+              "rank": 5
+            },
+            {
+              "id": 105975,
+              "spellId": 12297,
+              "name": "Anticipation",
+              "description": "Increases your Defense Skill by 20.",
+              "rank": 5
+            },
+            {
+              "id": 105969,
+              "spellId": 12797,
+              "name": "Improved Revenge",
+              "description": "Increases damage dealt by your Revenge ability by 60%.",
+              "rank": 3
+            },
+            {
+              "id": 105970,
+              "spellId": 12975,
+              "name": "Last Stand",
+              "description": "When activated, this ability temporarily grants you 30% of your maximum health for 20 sec. After the effect expires, the health is lost.",
+              "rank": 1
+            },
+            {
+              "id": 105971,
+              "spellId": 1310316,
+              "name": "Master of Defense",
+              "description": "Grants you a 100% chance to generate 5 Rage when you Dodge or Parry while a shield is equipped.",
+              "rank": 2
+            },
+            {
+              "id": 110856,
+              "spellId": 12792,
+              "name": "Defiance",
+              "description": "Increases all threat generated in Defensive stance by an additional 20% while a shield is equipped.",
+              "rank": 3
+            },
+            {
+              "id": 105968,
+              "spellId": 12308,
+              "name": "Improved Sunder Armor",
+              "description": "Reduces the Rage cost of your Sunder Armor ability by 2.",
+              "rank": 2
+            },
+            {
+              "id": 105966,
+              "spellId": 1310317,
+              "name": "Vanguard",
+              "description": "Your Charge ability is now usable while in Defensive Stance.",
+              "rank": 1
+            },
+            {
+              "id": 105965,
+              "spellId": 12809,
+              "name": "Concussion Blow",
+              "description": "Stuns the target for 5 sec.",
+              "rank": 1
+            },
+            {
+              "id": 105962,
+              "spellId": 16538,
+              "name": "Bastion",
+              "description": "Increases all damage you deal by 4% while a shield is equipped.",
+              "rank": 2
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "model": {
+    "race": 8,
+    "gender": 1,
+    "modelId": 16,
+    "customizations": [
+      {
+        "optionId": 95,
+        "choiceId": 1364
+      },
+      {
+        "optionId": 96,
+        "choiceId": 1387
+      },
+      {
+        "optionId": 97,
+        "choiceId": 1396
+      },
+      {
+        "optionId": 98,
+        "choiceId": 1415
+      },
+      {
+        "optionId": 99,
+        "choiceId": 1423
+      },
+      {
+        "optionId": 757,
+        "choiceId": 8456
+      },
+      {
+        "optionId": 766,
+        "choiceId": 8510
+      }
+    ],
+    "items": [
+      [
+        1,
+        23197
+      ],
+      [
+        3,
+        27003
+      ],
+      [
+        4,
+        9182
+      ],
+      [
+        5,
+        12971
+      ],
+      [
+        6,
+        12821
+      ],
+      [
+        7,
+        28290
+      ],
+      [
+        8,
+        22505
+      ],
+      [
+        9,
+        737789
+      ],
+      [
+        10,
+        9082
+      ],
+      [
+        16,
+        15068
+      ],
+      [
+        21,
+        1930
+      ],
+      [
+        14,
+        18792
+      ]
+    ]
+  },
+  "fetchedAt": 1795116998457,
+  "fromCache": false,
+  "raceRanks": null
+}
