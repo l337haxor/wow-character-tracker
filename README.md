@@ -19,3 +19,7 @@ The updater reads the publicly available `https://armorywowforever.com/api/chara
 To publish automatically, GitHub Actions must have permission to write repository contents; under **Settings → Actions → General → Workflow permissions**, choose read and write permissions if necessary.
 
 Source implementation: [stefan-mostert/wow-forever-armory](https://github.com/stefan-mostert/wow-forever-armory).
+
+## Quest history (optional addon)
+
+See [QUEST_TRACKING.md](QUEST_TRACKING.md) for the WoW Forever quest-history addon, setup instructions and importer. The addon saves completed and active quest IDs locally; quest data is **not automatically uploaded** by the hourly Armory workflow. After converting and committing `quests-chubby-cheekz.json`, quest-aware recommendations can use it.
