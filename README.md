@@ -37,3 +37,11 @@ These are snapshot-based recommendations, not an automatic quest-objective track
 - [Active quest ID catalog](quest_catalog.json) — names, zones, relevant notes and source links for all 39 quests.
 
 The recommendations are a researched snapshot rather than automatically regenerated every hour. Refresh quest history after playing to keep them accurate.
+
+## Automatic leveling report
+
+`build_leveling_advisor.py` regenerates [LEVELING_ADVISOR.md](LEVELING_ADVISOR.md) from the latest `chubby-cheekz.json`, `quests-chubby-cheekz.json` and `quest_catalog.json` on each successful updater publication. The workflow also starts when a new quest export or catalog change is committed to `main`.
+
+Quest history is **not** automatically collected from the game: use `/cqt`, reload/log out, import and commit the new JSON. The report uses only the last uploaded quest history; it doesn't track objective counters, unlock unaccepted quests or verify dungeon difficulty. Changes in Armory fetchedAt metadata alone may trigger a report run but normally won't change the generated text.
+
+Run locally with `python build_leveling_advisor.py`, or inspect the [Actions workflow](../../actions/workflows/update-armory.yml). Generation and tests are configured but a post-change workflow run has not yet been confirmed.
