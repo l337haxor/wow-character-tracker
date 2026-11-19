@@ -56,6 +56,11 @@ jobs:
               source = Path("candidate") / name
               if source.exists():
                   shutil.copy2(source, name)
+          # Rebuild the leveling report using the latest published Armory candidate
+          # and the last manually uploaded quest snapshot. If generation fails, do
+          # not publish partial data from this step.
+          subprocess.run(["python", "build_leveling_advisor.py"], check=True)
+          paths.append("LEVELING_ADVISOR.md")
           existing = [name for name in paths if Path(name).is_file()]
           if existing:
               subprocess.run(["git", "add", "--", *existing], check=True)
