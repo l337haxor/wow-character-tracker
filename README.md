@@ -30,3 +30,10 @@ See [QUEST_TRACKING.md](QUEST_TRACKING.md) for the WoW Forever quest-history add
 - [Active quest ID lookup](active-quest-catalog.json) — 27 quest names/zones matched, 12 IDs still unresolved in public references
 
 These are snapshot-based recommendations, not an automatic quest-objective tracker. The addon still exports only accepted and completed IDs.
+
+## Questing recommendations
+
+- [Leveling and dungeon advisor](LEVELING_ADVISOR.md) — current questing route for Chubby Cheekz, grounded in saved quest history and level.
+- [Active quest ID catalog](quest_catalog.json) — names, zones, relevant notes and source links for all 39 quests.
+
+The recommendations are a researched snapshot rather than automatically regenerated every hour. Refresh quest history after playing to keep them accurate.
