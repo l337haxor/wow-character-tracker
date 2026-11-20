@@ -11,7 +11,7 @@
 
 ## Suggested next areas
 
-- **Stranglethorn Vale:** 7 active quest(s); combine nearby objectives.
+- **Stranglethorn Vale:** 8 active quest(s); combine nearby objectives.
 - **Drowned City:** 1 active quest(s); dungeon quests; confirm group suitability.
 - **Arathi Highlands:** 6 active quest(s); combine nearby objectives.
 - **Razorfen Downs:** 1 active quest(s); dungeon quests; confirm group suitability.
@@ -19,7 +19,7 @@
 
 ## Active quests grouped by area
 
-### Stranglethorn Vale (7)
+### Stranglethorn Vale (8)
 
 - **[Raptor Mastery](https://questing.wiki/wow-forever/quests/196/)** (#196): Combine Jungle Stalkers with Mok'thardin's feather collection
 - **[Skullsplitter Tusks](https://questing.wiki/wow-forever/quests/209/)** (#209): Skullsplitter troll hunting; check combat level in camp
@@ -28,6 +28,7 @@
 - **[Whiskey Slim's Lost Grog](https://questing.wiki/wow-forever/quests/580/)** (#580): Collect bottles opportunistically on the coast
 - **[The Bloodsail Buccaneers](https://questing.wiki/wow-forever/quests/595/)** (#595): Booty Bay Bloodsail chain; check current stage
 - **[Scaring Shaky](https://questing.wiki/wow-forever/quests/606/)** (#606): Mistvale gorilla giblets to Shaky in Booty Bay
+- **[Excelsior](https://questing.wiki/wow-forever/quests/628/)** (#628): Elder Saltwater Crocolisk skin for Drizzlik in Booty Bay
 
 ### Drowned City (1)
 
@@ -56,26 +57,33 @@
 - **[Overseas Delivery](https://www.forever-xp.com/quests/95144/)** (#95144): Deliver Fizzgrimble crate to Powderfuse Port; combine travel
 - **[Armory of Sunnyglade](https://www.forever-xp.com/quests/97884/)** (#97884): Recover Tremayne Family Blacksmithing Techniques; interesting for Blacksmithing
 
-### Unknown (14)
+### Badlands (6)
 
-- **Unmapped quest** (#628): Requires manual lookup
-- **Unmapped quest** (#703): Requires manual lookup
-- **Unmapped quest** (#713): Requires manual lookup
-- **Unmapped quest** (#782): Requires manual lookup
-- **Unmapped quest** (#1108): Requires manual lookup
-- **Unmapped quest** (#1420): Requires manual lookup
-- **Unmapped quest** (#1429): Requires manual lookup
-- **Unmapped quest** (#1430): Requires manual lookup
-- **Unmapped quest** (#2258): Requires manual lookup
-- **Unmapped quest** (#93176): Requires manual lookup
-- **Unmapped quest** (#93464): Requires manual lookup
-- **Unmapped quest** (#93663): Requires manual lookup
-- **Unmapped quest** (#96078): Requires manual lookup
-- **Unmapped quest** (#97663): Requires manual lookup
+- **[Barbecued Buzzard Wings](https://questing.wiki/wow-forever/quests/703/)** (#703): Collect 4 Buzzard Wings and return to Rigglefuzz
+- **[Coolant Heads Prevail](https://questing.wiki/wow-forever/quests/713/)** (#713): Bring Frost Oil to Lotwil Veriatus
+- **[Broken Alliances](https://questing.wiki/wow-forever/quests/782/)** (#782): Kill Boss Tho'grun and return the Sign of the Earth to Gorn in Kargath
+- **[Indurium](https://questing.wiki/wow-forever/quests/1108/)** (#1108): Collect 10 Indurium Flakes from Stonevault troggs and return to Martek
+- **[Badlands Reagent Run](https://questing.wiki/wow-forever/quests/2258/)** (#2258): Collect 5 Buzzard Gizzards, 10 Crag Coyote Fangs and 5 Rock Elemental Shards
+- **[Supplies and Studies](https://forever-xp.com/quests/97663/)** (#97663): Recover supplies from Dustbowl ogres, take two stone rubbings, return to Mus'hale in Kargath
+
+### Swamp of Sorrows (4)
+
+- **[Report to Helgrum](https://questing.wiki/wow-forever/quests/1420/)** (#1420): Bring Neeka's Report to Helgrum the Swift in Stonard
+- **[Fresh Meat](https://questing.wiki/wow-forever/quests/1430/)** (#1430): Collect 10 Monstrous Crawler Legs for Dar in Stonard
+- **[My Little Friends](https://questing.wiki/wow-forever/quests/93176/)** (#93176): Quest source names Amaryllis Webb but lacks reliable objective details; check the in-game log
+- **[Lost in Transit](https://db.icy-veins.com/wow-forever/quests/93663)** (#93663): Recover Courier's Shipment along the road near Stonard and deliver to Magtoor at Harborage
 
 ### Booty Bay (Stranglethorn Vale) (1)
 
 - **[Cherry for Your Thoughts?](https://www.forever-xp.com/quests/79236/)** (#79236): Give Cherry Grog to Tokal; short turn-in
+
+### Desolace (1)
+
+- **[The Visiting Mage](https://forever-xp.com/quests/93464/)** (#93464): Find Azore Aldamort in Desolace (38.9, 27.2) for the draenethyst chain
+
+### Durotar (1)
+
+- **[A Tale Spun Around the Fire](https://forever-xp.com/quests/96078/)** (#96078): Deliver the tablet etchings to Master Gadrin in Sen'jin Village; includes a weapon-choice reward
 
 ### Durotar / class quest (1)
 
@@ -84,6 +92,10 @@
 ### Dustwallow Marsh (1)
 
 - **[Razzeric's Tweaking](https://questing.wiki/wow-forever/quests/1187/)** (#1187): Retrieve Seaforium Booster from zeppelin wreck
+
+### Hinterlands (1)
+
+- **[The Atal'ai Exile](https://questing.wiki/wow-forever/quests/1429/)** (#1429): Deliver Fel'zerul's artifact bundle to the exile in Hinterlands
 
 ### Orgrimmar / Blacksmithing (1)
 
@@ -99,4 +111,4 @@
 - Active quests may already have completed objectives awaiting turn-in; this export has no objective counters.
 - Catalog names, zones and notes are community-derived and must be checked in game.
 - This generator cannot discover new unaccepted quests or independently validate dungeon levels and rewards.
-- Unmapped active quest IDs: 628, 703, 713, 782, 1108, 1420, 1429, 1430, 2258, 93176, 93464, 93663, 96078, 97663.
+- Unmapped active quest IDs: none.
