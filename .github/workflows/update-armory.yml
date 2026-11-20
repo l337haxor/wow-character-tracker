@@ -8,6 +8,7 @@ on:
       - quest_catalog.json
       - build_leveling_advisor.py
       - tests/test_build_leveling_advisor.py
+      - .github/workflows/update-armory.yml
   schedule:
     - cron: '23 * * * *'
 
