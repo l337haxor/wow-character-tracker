@@ -12,7 +12,7 @@
   "guild": "WASTEMANS",
   "guildSlug": "wastemans",
   "guildServer": null,
-  "lastLogin": 1795118108000,
+  "lastLogin": 1795136798000,
   "region": "us",
   "server": "normal",
   "serverName": null,
@@ -327,14 +327,14 @@
     "spellPenetration": 0,
     "manaRegen": 0,
     "attackPower": 391,
-    "meleeCrit": 4.28,
+    "meleeCrit": 4.52,
     "meleeHaste": 0,
-    "rangedCrit": 3.6,
+    "rangedCrit": 3.84,
     "armor": 2593,
-    "defense": 222,
-    "dodge": 5.24,
-    "parry": 10.68,
-    "block": 11.68
+    "defense": 227,
+    "dodge": 5.44,
+    "parry": 10.88,
+    "block": 11.88
   },
   "talents": [
     {
@@ -532,7 +532,7 @@
       ]
     ]
   },
-  "fetchedAt": 1795119718109,
+  "fetchedAt": 1795139347234,
   "fromCache": false,
   "raceRanks": null
 }
