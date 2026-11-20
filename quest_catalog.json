@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "sourceNote": "Community WoW Forever databases (Questing.wiki and Forever XP), researched 2026-11-19. Quest names/areas not live-verified in game. Quest states from quests-chubby-cheekz.json.",
+  "sourceNote": "Community WoW Forever databases (Questing.wiki, Forever XP, Icy Veins), updated 2026-11-20. Source details are not live-verified in game. Quest states from quests-chubby-cheekz.json.",
   "quests": [
     {
       "id": 196,
@@ -83,6 +83,14 @@
       "source": "https://questing.wiki/wow-forever/quests/606/"
     },
     {
+      "id": 628,
+      "name": "Excelsior",
+      "zone": "Stranglethorn Vale",
+      "type": "elite",
+      "note": "Elder Saltwater Crocolisk skin for Drizzlik in Booty Bay",
+      "source": "https://questing.wiki/wow-forever/quests/628/"
+    },
+    {
       "id": 635,
       "name": "Crystal in the Mountains",
       "zone": "Arathi Highlands",
@@ -139,6 +147,30 @@
       "source": "https://questing.wiki/wow-forever/quests/701/"
     },
     {
+      "id": 703,
+      "name": "Barbecued Buzzard Wings",
+      "zone": "Badlands",
+      "type": "field",
+      "note": "Collect 4 Buzzard Wings and return to Rigglefuzz",
+      "source": "https://questing.wiki/wow-forever/quests/703/"
+    },
+    {
+      "id": 713,
+      "name": "Coolant Heads Prevail",
+      "zone": "Badlands",
+      "type": "collection",
+      "note": "Bring Frost Oil to Lotwil Veriatus",
+      "source": "https://questing.wiki/wow-forever/quests/713/"
+    },
+    {
+      "id": 782,
+      "name": "Broken Alliances",
+      "zone": "Badlands",
+      "type": "elite",
+      "note": "Kill Boss Tho'grun and return the Sign of the Earth to Gorn in Kargath",
+      "source": "https://questing.wiki/wow-forever/quests/782/"
+    },
+    {
       "id": 1048,
       "name": "Into The Scarlet Monastery",
       "zone": "Scarlet Monastery",
@@ -155,6 +187,14 @@
       "source": "https://questing.wiki/wow-forever/quests/1106/"
     },
     {
+      "id": 1108,
+      "name": "Indurium",
+      "zone": "Badlands",
+      "type": "field",
+      "note": "Collect 10 Indurium Flakes from Stonevault troggs and return to Martek",
+      "source": "https://questing.wiki/wow-forever/quests/1108/"
+    },
+    {
       "id": 1116,
       "name": "Dream Dust in the Swamp",
       "zone": "Stranglethorn Vale → Swamp of Sorrows",
@@ -169,6 +209,30 @@
       "type": "travel",
       "note": "Retrieve Seaforium Booster from zeppelin wreck",
       "source": "https://questing.wiki/wow-forever/quests/1187/"
+    },
+    {
+      "id": 1420,
+      "name": "Report to Helgrum",
+      "zone": "Badlands → Swamp of Sorrows",
+      "type": "travel",
+      "note": "Bring Neeka's Report to Helgrum the Swift in Stonard",
+      "source": "https://questing.wiki/wow-forever/quests/1420/"
+    },
+    {
+      "id": 1429,
+      "name": "The Atal'ai Exile",
+      "zone": "Swamp of Sorrows → Hinterlands",
+      "type": "travel",
+      "note": "Deliver Fel'zerul's artifact bundle to the exile in Hinterlands",
+      "source": "https://questing.wiki/wow-forever/quests/1429/"
+    },
+    {
+      "id": 1430,
+      "name": "Fresh Meat",
+      "zone": "Swamp of Sorrows",
+      "type": "field",
+      "note": "Collect 10 Monstrous Crawler Legs for Dar in Stonard",
+      "source": "https://questing.wiki/wow-forever/quests/1430/"
     },
     {
       "id": 1712,
@@ -193,6 +257,14 @@
       "type": "class",
       "note": "Older Brutal Legguards material quest; low-level",
       "source": "https://questing.wiki/wow-forever/quests/1846/"
+    },
+    {
+      "id": 2258,
+      "name": "Badlands Reagent Run",
+      "zone": "Badlands",
+      "type": "field",
+      "note": "Collect 5 Buzzard Gizzards, 10 Crag Coyote Fangs and 5 Rock Elemental Shards",
+      "source": "https://questing.wiki/wow-forever/quests/2258/"
     },
     {
       "id": 2751,
@@ -225,6 +297,30 @@
       "type": "turnin",
       "note": "Give Cherry Grog to Tokal; short turn-in",
       "source": "https://www.forever-xp.com/quests/79236/"
+    },
+    {
+      "id": 93176,
+      "name": "My Little Friends",
+      "zone": "Swamp of Sorrows",
+      "type": "unknown",
+      "note": "Quest source names Amaryllis Webb but lacks reliable objective details; check the in-game log",
+      "source": "https://questing.wiki/wow-forever/quests/93176/"
+    },
+    {
+      "id": 93464,
+      "name": "The Visiting Mage",
+      "zone": "Swamp of Sorrows → Desolace",
+      "type": "travel",
+      "note": "Find Azore Aldamort in Desolace (38.9, 27.2) for the draenethyst chain",
+      "source": "https://forever-xp.com/quests/93464/"
+    },
+    {
+      "id": 93663,
+      "name": "Lost in Transit",
+      "zone": "Swamp of Sorrows",
+      "type": "field",
+      "note": "Recover Courier's Shipment along the road near Stonard and deliver to Magtoor at Harborage",
+      "source": "https://db.icy-veins.com/wow-forever/quests/93663"
     },
     {
       "id": 94930,
@@ -291,6 +387,14 @@
       "source": "https://www.forever-xp.com/quests/95791/"
     },
     {
+      "id": 96078,
+      "name": "A Tale Spun Around the Fire",
+      "zone": "Stranglethorn Vale → Durotar",
+      "type": "travel",
+      "note": "Deliver the tablet etchings to Master Gadrin in Sen'jin Village; includes a weapon-choice reward",
+      "source": "https://forever-xp.com/quests/96078/"
+    },
+    {
       "id": 96774,
       "name": "Ancient Gurubashi Idol",
       "zone": "Drowned City",
@@ -305,6 +409,14 @@
       "type": "dungeon",
       "note": "Recover the Coldbringer's Eye in RFD",
       "source": "https://www.forever-xp.com/quests/97196/"
+    },
+    {
+      "id": 97663,
+      "name": "Supplies and Studies",
+      "zone": "Badlands",
+      "type": "field",
+      "note": "Recover supplies from Dustbowl ogres, take two stone rubbings, return to Mus'hale in Kargath",
+      "source": "https://forever-xp.com/quests/97663/"
     },
     {
       "id": 97884,
