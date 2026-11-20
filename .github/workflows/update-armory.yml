@@ -33,6 +33,7 @@ jobs:
       - name: Run mocked tests
         run: python -m unittest discover -s tests -v
       - name: Retrieve candidate snapshots
+        if: github.event_name != 'push'
         id: retrieve
         run: |
           mkdir -p candidate
@@ -50,7 +51,7 @@ jobs:
           set -o pipefail
           python update_armory.py --output-dir candidate 2>&1 | tee updater.log
       - name: Publish snapshots and status
-        if: ${{ !cancelled() && (steps.retrieve.outcome == 'success' || steps.retrieve.outcome == 'failure') }}
+        if: ${{ !cancelled() && (github.event_name == 'push' || steps.retrieve.outcome == 'success' || steps.retrieve.outcome == 'failure') }}
         run: |
           python - <<'PY'
           import shutil
@@ -101,6 +102,10 @@ jobs:
           echo "Retrieval result: $RESULT" >> "$GITHUB_STEP_SUMMARY"
           echo "Changed snapshots and status are committed when publication succeeds. See the publication step." >> "$GITHUB_STEP_SUMMARY"
           echo "refresh=1 requests a refresh; upstream freshness is not guaranteed." >> "$GITHUB_STEP_SUMMARY"
+          if [ "$GITHUB_EVENT_NAME" = "push" ]; then
+            echo "Quest/catalog push: refreshed report without querying the Armory." >> "$GITHUB_STEP_SUMMARY"
+            exit 0
+          fi
           if [ "$RESULT" != "success" ]; then
             echo "::error::Armory retrieval did not succeed. Inspect tests, logs and status artifact."
             exit 1
