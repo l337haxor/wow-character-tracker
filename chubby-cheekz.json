@@ -2,7 +2,7 @@
   "schema": 10,
   "blizzardId": 7332859,
   "name": "Chubby Cheekz",
-  "level": 41,
+  "level": 42,
   "race": "Troll",
   "raceId": 8,
   "className": "Warrior",
@@ -12,7 +12,7 @@
   "guild": "WASTEMANS",
   "guildSlug": "wastemans",
   "guildServer": null,
-  "lastLogin": 1795147900000,
+  "lastLogin": 1795193005000,
   "region": "us",
   "server": "normal",
   "serverName": null,
@@ -248,10 +248,10 @@
       "slot": "BACK",
       "slotName": "Back",
       "inventoryType": "CLOAK",
-      "id": 4643,
-      "name": "Grimsteel Cape",
+      "id": 279884,
+      "name": "South Seas Shroud",
       "quality": "UNCOMMON",
-      "ilvl": 35,
+      "ilvl": 42,
       "icon": "https://wow.zamimg.com/images/wow/icons/large/inv_misc_cape_02.jpg",
       "setName": null,
       "setPieces": [],
@@ -310,29 +310,29 @@
     }
   ],
   "averageIlvl": 35,
-  "gearscore": 371,
+  "gearscore": 374,
   "stats": {
-    "health": 2201,
+    "health": 2255,
     "power": 100,
     "powerType": "Rage",
-    "strength": 130,
-    "agility": 62,
-    "stamina": 170,
+    "strength": 132,
+    "agility": 61,
+    "stamina": 172,
     "intellect": 25,
-    "spirit": 45,
+    "spirit": 48,
     "spellPower": 0,
     "healing": 0,
     "spellCrit": 0,
     "spellHaste": 0,
     "spellPenetration": 0,
     "manaRegen": 0,
-    "attackPower": 391,
-    "meleeCrit": 4.56,
+    "attackPower": 398,
+    "meleeCrit": 4.34,
     "meleeHaste": 0,
-    "rangedCrit": 3.84,
-    "armor": 2593,
-    "defense": 227,
-    "dodge": 5.44,
+    "rangedCrit": 3.58,
+    "armor": 2596,
+    "defense": 232,
+    "dodge": 5.3,
     "parry": 10.88,
     "block": 11.88
   },
@@ -363,7 +363,7 @@
         {
           "id": 163,
           "name": "Protection",
-          "points": 27,
+          "points": 28,
           "talents": [
             {
               "id": 105974,
@@ -439,8 +439,8 @@
               "id": 105962,
               "spellId": 16538,
               "name": "Bastion",
-              "description": "Increases all damage you deal by 4% while a shield is equipped.",
-              "rank": 2
+              "description": "Increases all damage you deal by 6% while a shield is equipped.",
+              "rank": 3
             }
           ]
         }
@@ -520,7 +520,7 @@
       ],
       [
         16,
-        15068
+        15040
       ],
       [
         21,
@@ -532,7 +532,7 @@
       ]
     ]
   },
-  "fetchedAt": 1795169540617,
+  "fetchedAt": 1795199990365,
   "fromCache": false,
   "raceRanks": null
 }

@@ -3,9 +3,9 @@
 > Automatically generated from the latest published Armory data and manually exported quest history.
 > Quest objectives, exact dungeon suitability and rewards are not independently verified.
 
-**Character:** level 41 Troll Warrior · 492 completed quests · 39 active quests
+**Character:** level 42 Troll Warrior · 492 completed quests · 39 active quests
 
-**Armory fetched:** 2026-11-20 10:12 UTC · **Quest export saved:** 2026-11-19 19:54 UTC
+**Armory fetched:** 2026-11-20 18:39 UTC · **Quest export saved:** 2026-11-19 19:54 UTC
 
 **Weapon:** Vanquisher's Sword · **Off-hand/shield:** Vile Protector
 
