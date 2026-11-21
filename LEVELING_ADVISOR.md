@@ -5,7 +5,7 @@
 
 **Character:** level 42 Troll Warrior · 521 completed quests · 38 active quests
 
-**Armory fetched:** 2026-11-20 19:48 UTC · **Quest export saved:** 2026-11-20 19:45 UTC
+**Armory fetched:** 2026-11-21 00:52 UTC · **Quest export saved:** 2026-11-20 19:45 UTC
 
 **Weapon:** Vanquisher's Sword · **Off-hand/shield:** Vile Protector
 
