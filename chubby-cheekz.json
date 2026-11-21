@@ -2,7 +2,7 @@
   "schema": 10,
   "blizzardId": 7332859,
   "name": "Chubby Cheekz",
-  "level": 42,
+  "level": 43,
   "race": "Troll",
   "raceId": 8,
   "className": "Warrior",
@@ -12,7 +12,7 @@
   "guild": "WASTEMANS",
   "guildSlug": "wastemans",
   "guildServer": null,
-  "lastLogin": 1795203928000,
+  "lastLogin": 1795238747000,
   "region": "us",
   "server": "normal",
   "serverName": null,
@@ -88,11 +88,11 @@
       "slot": "CHEST",
       "slotName": "Chest",
       "inventoryType": "CHEST",
-      "id": 7133,
-      "name": "Brutal Hauberk",
-      "quality": "RARE",
-      "ilvl": 30,
-      "icon": "https://wow.zamimg.com/images/wow/icons/large/inv_chest_chain_07.jpg",
+      "id": 4508,
+      "name": "Blood-tinged Armor",
+      "quality": "UNCOMMON",
+      "ilvl": 42,
+      "icon": "https://wow.zamimg.com/images/wow/icons/large/inv_chest_plate08.jpg",
       "setName": null,
       "setPieces": [],
       "enchant": null,
@@ -264,11 +264,11 @@
       "slot": "MAIN_HAND",
       "slotName": "Main Hand",
       "inventoryType": "WEAPON",
-      "id": 10823,
-      "name": "Vanquisher's Sword",
+      "id": 6802,
+      "name": "Sword of Omen",
       "quality": "RARE",
       "ilvl": 44,
-      "icon": "https://wow.zamimg.com/images/wow/icons/large/inv_sword_35.jpg",
+      "icon": "https://wow.zamimg.com/images/wow/icons/large/inv_sword_19.jpg",
       "setName": null,
       "setPieces": [],
       "enchant": null,
@@ -309,30 +309,30 @@
       "socketBonus": null
     }
   ],
-  "averageIlvl": 35,
-  "gearscore": 374,
+  "averageIlvl": 36,
+  "gearscore": 375,
   "stats": {
-    "health": 2255,
+    "health": 2361,
     "power": 100,
     "powerType": "Rage",
-    "strength": 132,
-    "agility": 61,
-    "stamina": 172,
+    "strength": 143,
+    "agility": 65,
+    "stamina": 178,
     "intellect": 25,
-    "spirit": 48,
+    "spirit": 49,
     "spellPower": 0,
     "healing": 0,
     "spellCrit": 0,
     "spellHaste": 0,
     "spellPenetration": 0,
     "manaRegen": 0,
-    "attackPower": 398,
-    "meleeCrit": 4.38,
+    "attackPower": 401,
+    "meleeCrit": 4.58,
     "meleeHaste": 0,
-    "rangedCrit": 3.58,
-    "armor": 2596,
-    "defense": 234,
-    "dodge": 5.38,
+    "rangedCrit": 3.7,
+    "armor": 2624,
+    "defense": 239,
+    "dodge": 5.54,
     "parry": 10.96,
     "block": 11.96
   },
@@ -363,7 +363,7 @@
         {
           "id": 163,
           "name": "Protection",
-          "points": 28,
+          "points": 29,
           "talents": [
             {
               "id": 105974,
@@ -439,8 +439,8 @@
               "id": 105962,
               "spellId": 16538,
               "name": "Bastion",
-              "description": "Increases all damage you deal by 6% while a shield is equipped.",
-              "rank": 3
+              "description": "Increases all damage you deal by 8% while a shield is equipped.",
+              "rank": 4
             }
           ]
         }
@@ -496,7 +496,7 @@
       ],
       [
         5,
-        12971
+        4767
       ],
       [
         6,
@@ -524,7 +524,7 @@
       ],
       [
         21,
-        1930
+        20010
       ],
       [
         14,
@@ -532,7 +532,7 @@
       ]
     ]
   },
-  "fetchedAt": 1795222352349,
+  "fetchedAt": 1795249363834,
   "fromCache": false,
   "raceRanks": null
 }
