@@ -2,7 +2,7 @@
   "schema": 10,
   "blizzardId": 7332859,
   "name": "Chubby Cheekz",
-  "level": 43,
+  "level": 44,
   "race": "Troll",
   "raceId": 8,
   "className": "Warrior",
@@ -12,7 +12,7 @@
   "guild": "WASTEMANS",
   "guildSlug": "wastemans",
   "guildServer": null,
-  "lastLogin": 1795238747000,
+  "lastLogin": 1795294512000,
   "region": "us",
   "server": "normal",
   "serverName": null,
@@ -312,12 +312,12 @@
   "averageIlvl": 36,
   "gearscore": 375,
   "stats": {
-    "health": 2361,
+    "health": 2419,
     "power": 100,
     "powerType": "Rage",
-    "strength": 143,
-    "agility": 65,
-    "stamina": 178,
+    "strength": 145,
+    "agility": 66,
+    "stamina": 180,
     "intellect": 25,
     "spirit": 49,
     "spellPower": 0,
@@ -326,15 +326,15 @@
     "spellHaste": 0,
     "spellPenetration": 0,
     "manaRegen": 0,
-    "attackPower": 401,
-    "meleeCrit": 4.58,
+    "attackPower": 408,
+    "meleeCrit": 4.5,
     "meleeHaste": 0,
     "rangedCrit": 3.7,
-    "armor": 2624,
-    "defense": 239,
-    "dodge": 5.54,
-    "parry": 10.96,
-    "block": 11.96
+    "armor": 2626,
+    "defense": 243,
+    "dodge": 5.5,
+    "parry": 10.92,
+    "block": 11.92
   },
   "talents": [
     {
@@ -363,7 +363,7 @@
         {
           "id": 163,
           "name": "Protection",
-          "points": 29,
+          "points": 30,
           "talents": [
             {
               "id": 105974,
@@ -439,8 +439,8 @@
               "id": 105962,
               "spellId": 16538,
               "name": "Bastion",
-              "description": "Increases all damage you deal by 8% while a shield is equipped.",
-              "rank": 4
+              "description": "Increases all damage you deal by 10% while a shield is equipped.",
+              "rank": 5
             }
           ]
         }
@@ -532,7 +532,7 @@
       ]
     ]
   },
-  "fetchedAt": 1795277912849,
+  "fetchedAt": 1795297440322,
   "fromCache": false,
   "raceRanks": null
 }
