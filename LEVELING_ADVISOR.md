@@ -5,7 +5,7 @@
 
 **Character:** level 44 Troll Warrior · 521 completed quests · 38 active quests
 
-**Armory fetched:** 2026-11-21 21:44 UTC · **Quest export saved:** 2026-11-20 19:45 UTC
+**Armory fetched:** 2026-11-22 02:22 UTC · **Quest export saved:** 2026-11-20 19:45 UTC
 
 **Weapon:** Sword of Omen · **Off-hand/shield:** Vile Protector
 
