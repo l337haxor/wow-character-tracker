@@ -2,7 +2,7 @@
   "schema": 10,
   "blizzardId": 7332859,
   "name": "Chubby Cheekz",
-  "level": 44,
+  "level": 45,
   "race": "Troll",
   "raceId": 8,
   "className": "Warrior",
@@ -12,7 +12,7 @@
   "guild": "WASTEMANS",
   "guildSlug": "wastemans",
   "guildServer": null,
-  "lastLogin": 1795310242000,
+  "lastLogin": 1795319303000,
   "region": "us",
   "server": "normal",
   "serverName": null,
@@ -312,29 +312,29 @@
   "averageIlvl": 36,
   "gearscore": 375,
   "stats": {
-    "health": 2419,
+    "health": 2479,
     "power": 100,
     "powerType": "Rage",
-    "strength": 145,
-    "agility": 66,
-    "stamina": 180,
-    "intellect": 25,
-    "spirit": 49,
+    "strength": 147,
+    "agility": 67,
+    "stamina": 182,
+    "intellect": 26,
+    "spirit": 50,
     "spellPower": 0,
     "healing": 0,
     "spellCrit": 0,
     "spellHaste": 0,
     "spellPenetration": 0,
     "manaRegen": 0,
-    "attackPower": 408,
-    "meleeCrit": 4.54,
+    "attackPower": 415,
+    "meleeCrit": 4.37,
     "meleeHaste": 0,
-    "rangedCrit": 3.82,
-    "armor": 2626,
-    "defense": 245,
-    "dodge": 5.58,
-    "parry": 11,
-    "block": 12
+    "rangedCrit": 3.61,
+    "armor": 2628,
+    "defense": 246,
+    "dodge": 5.37,
+    "parry": 10.84,
+    "block": 11.84
   },
   "talents": [
     {
@@ -363,7 +363,7 @@
         {
           "id": 163,
           "name": "Protection",
-          "points": 30,
+          "points": 31,
           "talents": [
             {
               "id": 105974,
@@ -441,6 +441,13 @@
               "name": "Bastion",
               "description": "Increases all damage you deal by 10% while a shield is equipped.",
               "rank": 5
+            },
+            {
+              "id": 105959,
+              "spellId": 23922,
+              "name": "Shield Slam",
+              "description": "Slam the target with your shield, causing 463 to 483 damage, increased by your Block Value, and has a 50% chance of dispelling 1 magic effect on the target. Causes a very high amount of threat.",
+              "rank": 1
             }
           ]
         }
@@ -532,7 +539,7 @@
       ]
     ]
   },
-  "fetchedAt": 1795314177664,
+  "fetchedAt": 1795341823362,
   "fromCache": false,
   "raceRanks": null
 }
