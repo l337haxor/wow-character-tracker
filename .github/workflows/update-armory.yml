@@ -4,6 +4,7 @@ on:
   push:
     branches: [main]
     paths:
+      - chubby-cheekz.json
       - quests-chubby-cheekz.json
       - quest_catalog.json
       - build_leveling_advisor.py
