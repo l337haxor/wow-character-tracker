@@ -3,11 +3,11 @@
 > Automatically generated from the latest published Armory data and manually exported quest history.
 > Quest objectives, exact dungeon suitability and rewards are not independently verified.
 
-**Character:** level 45 Troll Warrior · 637 completed quests · 40 active quests
+**Character:** level 46 Troll Warrior · 637 completed quests · 40 active quests
 
-**Armory fetched:** 2026-11-22 23:40 UTC · **Quest export saved:** 2026-11-23 03:51 UTC
+**Armory fetched:** 2026-11-23 04:53 UTC · **Quest export saved:** 2026-11-23 03:51 UTC
 
-**Weapon:** Sword of Omen · **Off-hand/shield:** Vile Protector
+**Weapon:** Rock on Stick · **Off-hand/shield:** Twilight Barrier
 
 ## Suggested next areas
 
