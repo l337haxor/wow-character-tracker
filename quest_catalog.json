@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "sourceNote": "Community WoW Forever databases (Questing.wiki, Forever XP, Icy Veins), updated 2026-11-20. Source details are not live-verified in game. Quest states from quests-chubby-cheekz.json.",
+  "sourceNote": "Community WoW Forever quest databases (Questing.wiki, Forever XP, Forever Tool, Icy Veins, Zephras), updated 2026-11-22. Names, zones and objectives are research-derived and not individually live-verified in game. Quest states come from quests-chubby-cheekz.json.",
   "quests": [
     {
       "id": 196,
@@ -9,6 +9,14 @@
       "type": "field",
       "note": "Combine Jungle Stalkers with Mok'thardin's feather collection",
       "source": "https://questing.wiki/wow-forever/quests/196/"
+    },
+    {
+      "id": 197,
+      "name": "Raptor Mastery",
+      "zone": "Stranglethorn Vale",
+      "type": "field",
+      "note": "Hunt Tethis and return the talon to Hemet Nesingwary",
+      "source": "https://questing.wiki/wow-forever/quests/197/"
     },
     {
       "id": 209,
@@ -35,12 +43,36 @@
       "source": "https://questing.wiki/wow-forever/quests/338/"
     },
     {
+      "id": 348,
+      "name": "Stranglethorn Fever",
+      "zone": "Stranglethorn Vale",
+      "type": "elite",
+      "note": "Find Witch Doctor Unbagwa, summon Mokk the Savage and return his heart to Fin Fizracket",
+      "source": "https://questing.wiki/wow-forever/quests/348/"
+    },
+    {
+      "id": 571,
+      "name": "Mok'thardin's Enchantment",
+      "zone": "Stranglethorn Vale",
+      "type": "field",
+      "note": "Collect Aged Gorilla Sinew from Elder Mistvale Gorillas for Mok'thardin",
+      "source": "https://questing.wiki/wow-forever/quests/571/"
+    },
+    {
       "id": 572,
       "name": "Mok'thardin's Enchantment",
       "zone": "Stranglethorn Vale",
       "type": "field",
       "note": "Jungle Stalker Feathers; pair with Raptor Mastery #196",
       "source": "https://questing.wiki/wow-forever/quests/572/"
+    },
+    {
+      "id": 576,
+      "name": "Keep An Eye Out",
+      "zone": "Stranglethorn Vale",
+      "type": "field",
+      "note": "Recover Dizzy's enchanted eye from Bloodsail Buccaneers",
+      "source": "https://questing.wiki/wow-forever/quests/576/"
     },
     {
       "id": 577,
@@ -59,12 +91,44 @@
       "source": "https://questing.wiki/wow-forever/quests/580/"
     },
     {
+      "id": 587,
+      "name": "Up to Snuff",
+      "zone": "Stranglethorn Vale",
+      "type": "field",
+      "note": "Collect 15 Snuff from Bloodsail pirates for Deeg",
+      "source": "https://questing.wiki/wow-forever/quests/587/"
+    },
+    {
+      "id": 589,
+      "name": "The Singing Crystals",
+      "zone": "Stranglethorn Vale",
+      "type": "field",
+      "note": "Collect three Pulsing Blue Shards from Ironjaw Basilisks in Crystalvein Mine",
+      "source": "https://questing.wiki/wow-forever/quests/589/"
+    },
+    {
       "id": 595,
       "name": "The Bloodsail Buccaneers",
       "zone": "Stranglethorn Vale",
       "type": "field",
       "note": "Booty Bay Bloodsail chain; check current stage",
       "source": "https://questing.wiki/wow-forever/quests/595/"
+    },
+    {
+      "id": 600,
+      "name": "Venture Company Mining",
+      "zone": "Stranglethorn Vale",
+      "type": "field",
+      "note": "Collect 10 Singing Blue Crystals from Venture Co mining operations near Crystalvein Mine",
+      "source": "https://questing.wiki/wow-forever/quests/600/"
+    },
+    {
+      "id": 604,
+      "name": "The Bloodsail Buccaneers",
+      "zone": "Stranglethorn Vale",
+      "type": "field",
+      "note": "At Wild Shore, kill 10 Bloodsail Swashbucklers and recover Charts and Orders",
+      "source": "https://questing.wiki/wow-forever/quests/604/"
     },
     {
       "id": 605,
@@ -81,6 +145,30 @@
       "type": "field",
       "note": "Mistvale gorilla giblets to Shaky in Booty Bay",
       "source": "https://questing.wiki/wow-forever/quests/606/"
+    },
+    {
+      "id": 609,
+      "name": "Voodoo Dues",
+      "zone": "Stranglethorn Vale",
+      "type": "field",
+      "note": "Collect three debt items from named mobs at Aboraz and Jubuwal for MacKinley",
+      "source": "https://questing.wiki/wow-forever/quests/609/"
+    },
+    {
+      "id": 617,
+      "name": "Akiris by the Bundle",
+      "zone": "Stranglethorn Vale",
+      "type": "field",
+      "note": "Collect 10 Akiris Reeds from naga on the shore north of Booty Bay",
+      "source": "https://questing.wiki/wow-forever/quests/617/"
+    },
+    {
+      "id": 621,
+      "name": "Zanzil's Secret",
+      "zone": "Stranglethorn Vale",
+      "type": "field",
+      "note": "Collect 12 Zanzil's Mixtures northeast of Booty Bay",
+      "source": "https://questing.wiki/wow-forever/quests/621/"
     },
     {
       "id": 628,
@@ -155,12 +243,28 @@
       "source": "https://questing.wiki/wow-forever/quests/703/"
     },
     {
+      "id": 705,
+      "name": "Pearl Diving",
+      "zone": "Badlands → Stranglethorn Vale",
+      "type": "field",
+      "note": "Collect 9 Blue Pearls in Stranglethorn then turn in to Rigglefuzz in Badlands",
+      "source": "https://questing.wiki/wow-forever/quests/705/"
+    },
+    {
       "id": 713,
       "name": "Coolant Heads Prevail",
       "zone": "Badlands",
       "type": "collection",
       "note": "Bring Frost Oil to Lotwil Veriatus",
       "source": "https://questing.wiki/wow-forever/quests/713/"
+    },
+    {
+      "id": 716,
+      "name": "Stone Is Better than Cloth",
+      "zone": "Badlands",
+      "type": "profession",
+      "note": "Bring Patterned Bronze Bracers to Lucien Tosselwrench; reward is cloth bracers",
+      "source": "https://questing.wiki/wow-forever/quests/716/"
     },
     {
       "id": 782,
@@ -201,6 +305,14 @@
       "type": "travel",
       "note": "Collect ten dream dust from Swamp whelps and return to Booty Bay",
       "source": "https://questing.wiki/wow-forever/quests/1116/"
+    },
+    {
+      "id": 1137,
+      "name": "News for Fizzle",
+      "zone": "Badlands → Thousand Needles",
+      "type": "travel",
+      "note": "Deliver Martek's message to Fizzle Brassbolts in Shimmering Flats",
+      "source": "https://questing.wiki/wow-forever/quests/1137/"
     },
     {
       "id": 1187,
@@ -275,6 +387,22 @@
       "source": "https://questing.wiki/wow-forever/quests/2751/"
     },
     {
+      "id": 2872,
+      "name": "Stoley's Debt",
+      "zone": "Stranglethorn Vale → Tanaris",
+      "type": "travel",
+      "note": "Speak with Stoley at Steamwheedle Port in Tanaris",
+      "source": "https://questing.wiki/wow-forever/quests/2872/"
+    },
+    {
+      "id": 2932,
+      "name": "Grim Message",
+      "zone": "Hinterlands",
+      "type": "field",
+      "note": "Collect Witherbark Skulls and plant Nimboya's pike at a troll village",
+      "source": "https://questing.wiki/wow-forever/quests/2932/"
+    },
+    {
       "id": 6521,
       "name": "An Unholy Alliance",
       "zone": "Razorfen Downs entrance",
@@ -289,6 +417,22 @@
       "type": "dungeon",
       "note": "Older low-level dungeon quest; low leveling priority",
       "source": "https://questing.wiki/wow-forever/quests/6561/"
+    },
+    {
+      "id": 8551,
+      "name": "The Captain's Chest",
+      "zone": "Stranglethorn Vale",
+      "type": "elite",
+      "note": "Recover Smotts' Chest and return to Captain Hecklebury Smotts at Booty Bay",
+      "source": "https://questing.wiki/wow-forever/quests/8551/"
+    },
+    {
+      "id": 78830,
+      "name": "Terror of the Desert Skies (Stranglethorn Vale)",
+      "zone": "Badlands",
+      "type": "unknown",
+      "note": "Alternate version of Terror of the Desert Skies; verify objective in game",
+      "source": "https://db.icy-veins.com/wow-forever/quests/zones/badlands/"
     },
     {
       "id": 79236,
@@ -331,6 +475,22 @@
       "source": "https://www.forever-xp.com/quests/94930/"
     },
     {
+      "id": 95033,
+      "name": "On the Other Side",
+      "zone": "Riverglades → Feralas",
+      "type": "travel",
+      "note": "Speak with Witch Doctor Uzer'i at Camp Mojache in Feralas",
+      "source": "https://www.forever-xp.com/quests/95033/"
+    },
+    {
+      "id": 95124,
+      "name": "Admiral Lamora",
+      "zone": "Riverglades",
+      "type": "field",
+      "note": "Defeat Admiral Lamora and recover his loot near the Eastsea ships",
+      "source": "https://zephras.com/forever/enUS/quest/95124/"
+    },
+    {
       "id": 95141,
       "name": "Report to Rog'mar",
       "zone": "Stranglethorn Vale → Riverglades",
@@ -353,6 +513,30 @@
       "type": "travel",
       "note": "Deliver Fizzgrimble crate to Powderfuse Port; combine travel",
       "source": "https://www.forever-xp.com/quests/95144/"
+    },
+    {
+      "id": 95165,
+      "name": "See Ya, Scallywags!",
+      "zone": "Riverglades",
+      "type": "field",
+      "note": "Plant remote charges on each of three Eastsea boats",
+      "source": "https://www.forever-xp.com/quests/95165/"
+    },
+    {
+      "id": 95267,
+      "name": "The Monster Surfaces",
+      "zone": "Riverglades",
+      "type": "field",
+      "note": "Use bait to lure a sea monster and bring its head to Argo Brinewhistle",
+      "source": "https://forever-xp.com/quests/95267/"
+    },
+    {
+      "id": 95288,
+      "name": "Smuggler's Paradise",
+      "zone": "Riverglades",
+      "type": "field",
+      "note": "Recover eight stolen Smuggled Goods for Friz Frazzlespark",
+      "source": "https://www.forever-xp.com/quests/95288/"
     },
     {
       "id": 95773,
@@ -387,6 +571,14 @@
       "source": "https://www.forever-xp.com/quests/95791/"
     },
     {
+      "id": 96026,
+      "name": "Step Two: More Rock",
+      "zone": "Riverglades",
+      "type": "profession",
+      "note": "Deliver 10 Heavy Weightstones to Hamur in Bolder'ok; rewards Plans: Mithril Warhammer",
+      "source": "https://forever-tool.com/en/quests/96026/"
+    },
+    {
       "id": 96078,
       "name": "A Tale Spun Around the Fire",
       "zone": "Stranglethorn Vale → Durotar",
@@ -409,6 +601,14 @@
       "type": "dungeon",
       "note": "Recover the Coldbringer's Eye in RFD",
       "source": "https://www.forever-xp.com/quests/97196/"
+    },
+    {
+      "id": 97386,
+      "name": "The Offense of Grom'gol",
+      "zone": "Stranglethorn Vale",
+      "type": "elite",
+      "note": "Kill groups of Mosh'Ogg ogres; recommended group for harder fights",
+      "source": "https://forever-tool.com/en/quests/97386/"
     },
     {
       "id": 97663,
