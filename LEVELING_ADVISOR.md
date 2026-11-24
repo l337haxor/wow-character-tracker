@@ -3,9 +3,9 @@
 > Automatically generated from the latest published Armory data and manually exported quest history.
 > Quest objectives, exact dungeon suitability and rewards are not independently verified.
 
-**Character:** level 47 Troll Warrior · 637 completed quests · 40 active quests
+**Character:** level 48 Troll Warrior · 637 completed quests · 40 active quests
 
-**Armory fetched:** 2026-11-23 20:23 UTC · **Quest export saved:** 2026-11-23 03:51 UTC
+**Armory fetched:** 2026-11-24 04:54 UTC · **Quest export saved:** 2026-11-23 03:51 UTC
 
 **Weapon:** Rock on Stick · **Off-hand/shield:** Twilight Barrier
 

@@ -2,7 +2,7 @@
   "schema": 10,
   "blizzardId": 7332859,
   "name": "Chubby Cheekz",
-  "level": 47,
+  "level": 48,
   "race": "Troll",
   "raceId": 8,
   "className": "Warrior",
@@ -12,7 +12,7 @@
   "guild": "WASTEMANS",
   "guildSlug": "wastemans",
   "guildServer": null,
-  "lastLogin": 1795448049000,
+  "lastLogin": 1795494031000,
   "region": "us",
   "server": "normal",
   "serverName": null,
@@ -314,12 +314,12 @@
   "averageIlvl": 37,
   "gearscore": 388,
   "stats": {
-    "health": 2615,
+    "health": 2681,
     "power": 100,
     "powerType": "Rage",
-    "strength": 169,
-    "agility": 67,
-    "stamina": 186,
+    "strength": 171,
+    "agility": 68,
+    "stamina": 188,
     "intellect": 26,
     "spirit": 66,
     "spellPower": 0,
@@ -328,15 +328,15 @@
     "spellHaste": 0,
     "spellPenetration": 0,
     "manaRegen": 0,
-    "attackPower": 465,
-    "meleeCrit": 6.07,
+    "attackPower": 472,
+    "meleeCrit": 7.1,
     "meleeHaste": 0,
-    "rangedCrit": 3.31,
-    "armor": 3311,
-    "defense": 260,
-    "dodge": 5.35,
-    "parry": 11,
-    "block": 12
+    "rangedCrit": 3.18,
+    "armor": 3313,
+    "defense": 264,
+    "dodge": 5.26,
+    "parry": 10.96,
+    "block": 11.96
   },
   "talents": [
     {
@@ -359,14 +359,14 @@
         {
           "id": 164,
           "name": "Fury",
-          "points": 2,
+          "points": 3,
           "talents": [
             {
               "id": 105939,
               "spellId": 12320,
               "name": "Cruelty",
-              "description": "Improves your chance to get a critical strike with melee attacks by 2%.",
-              "rank": 2
+              "description": "Improves your chance to get a critical strike with melee attacks by 3%.",
+              "rank": 3
             }
           ]
         },
@@ -549,7 +549,7 @@
       ]
     ]
   },
-  "fetchedAt": 1795465386454,
+  "fetchedAt": 1795496047858,
   "fromCache": false,
   "raceRanks": null
 }
