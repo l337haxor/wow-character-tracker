@@ -12,7 +12,7 @@
   "guild": "WASTEMANS",
   "guildSlug": "wastemans",
   "guildServer": null,
-  "lastLogin": 1795562039000,
+  "lastLogin": 1795579644000,
   "region": "us",
   "server": "normal",
   "serverName": null,
@@ -90,11 +90,11 @@
       "slot": "CHEST",
       "slotName": "Chest",
       "inventoryType": "CHEST",
-      "id": 9286,
-      "name": "Field Plate Armor of the Champion",
-      "quality": "UNCOMMON",
+      "id": 274428,
+      "name": "Dark Golem Breastplate",
+      "quality": "RARE",
       "ilvl": null,
-      "icon": "https://wow.zamimg.com/images/wow/icons/large/inv_chest_plate14.jpg",
+      "icon": "https://wow.zamimg.com/images/wow/icons/large/inv_chest_plate10.jpg",
       "setName": null,
       "setPieces": [],
       "enchant": null,
@@ -138,11 +138,11 @@
       "slot": "FEET",
       "slotName": "Feet",
       "inventoryType": "FEET",
-      "id": 4076,
-      "name": "Mail Combat Boots",
-      "quality": "UNCOMMON",
+      "id": 9387,
+      "name": "Revelosh's Boots of the Champion",
+      "quality": "RARE",
       "ilvl": null,
-      "icon": "https://wow.zamimg.com/images/wow/icons/large/inv_boots_07.jpg",
+      "icon": "https://wow.zamimg.com/images/wow/icons/large/inv_boots_plate_06.jpg",
       "setName": null,
       "setPieces": [],
       "enchant": null,
@@ -202,11 +202,11 @@
       "slot": "FINGER_2",
       "slotName": "Ring 2",
       "inventoryType": "FINGER",
-      "id": 274078,
-      "name": "Boar Signet",
-      "quality": "UNCOMMON",
-      "ilvl": null,
-      "icon": "https://wow.zamimg.com/images/wow/icons/large/inv_jewelry_ring_26.jpg",
+      "id": 275045,
+      "name": "Ogre Horn Ring",
+      "quality": "RARE",
+      "ilvl": 45,
+      "icon": "https://wow.zamimg.com/images/wow/icons/large/inv_misc_bone_05.jpg",
       "setName": null,
       "setPieces": [],
       "enchant": null,
@@ -312,14 +312,14 @@
     }
   ],
   "averageIlvl": null,
-  "gearscore": 78,
+  "gearscore": 103,
   "stats": {
-    "health": 2721,
+    "health": 2781,
     "power": 100,
     "powerType": "Rage",
-    "strength": 175,
-    "agility": 66,
-    "stamina": 192,
+    "strength": 181,
+    "agility": 69,
+    "stamina": 198,
     "intellect": 26,
     "spirit": 64,
     "spellPower": 0,
@@ -328,15 +328,15 @@
     "spellHaste": 0,
     "spellPenetration": 0,
     "manaRegen": 0,
-    "attackPower": 480,
-    "meleeCrit": 7.1,
+    "attackPower": 492,
+    "meleeCrit": 7.33,
     "meleeHaste": 0,
-    "rangedCrit": 3.14,
-    "armor": 3309,
-    "defense": 267,
-    "dodge": 5.26,
-    "parry": 11.08,
-    "block": 12.08
+    "rangedCrit": 3.49,
+    "armor": 3468,
+    "defense": 272,
+    "dodge": 5.65,
+    "parry": 12.21,
+    "block": 11.28
   },
   "talents": [
     {
@@ -513,7 +513,7 @@
       ],
       [
         5,
-        8318
+        10856
       ],
       [
         6,
@@ -525,7 +525,7 @@
       ],
       [
         8,
-        22505
+        14883
       ],
       [
         9,
@@ -549,7 +549,7 @@
       ]
     ]
   },
-  "fetchedAt": 1795568081240,
+  "fetchedAt": 1795600597311,
   "fromCache": false,
   "raceRanks": null
 }
