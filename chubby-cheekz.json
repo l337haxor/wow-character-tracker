@@ -2,7 +2,7 @@
   "schema": 10,
   "blizzardId": 7332859,
   "name": "Chubby Cheekz",
-  "level": 48,
+  "level": 49,
   "race": "Troll",
   "raceId": 8,
   "className": "Warrior",
@@ -12,7 +12,7 @@
   "guild": "WASTEMANS",
   "guildSlug": "wastemans",
   "guildServer": null,
-  "lastLogin": 1795579644000,
+  "lastLogin": 1795619459000,
   "region": "us",
   "server": "normal",
   "serverName": null,
@@ -58,11 +58,11 @@
       "slot": "SHOULDER",
       "slotName": "Shoulders",
       "inventoryType": "SHOULDER",
-      "id": 279842,
-      "name": "Battle Spaulders",
-      "quality": "RARE",
-      "ilvl": null,
-      "icon": "https://wow.zamimg.com/images/wow/icons/large/inv_shoulder_23.jpg",
+      "id": 19037,
+      "name": "Emerald Peak Spaulders",
+      "quality": "UNCOMMON",
+      "ilvl": 48,
+      "icon": "https://wow.zamimg.com/images/wow/icons/large/inv_shoulder_26.jpg",
       "setName": null,
       "setPieces": [],
       "enchant": null,
@@ -312,31 +312,31 @@
     }
   ],
   "averageIlvl": null,
-  "gearscore": 103,
+  "gearscore": 130,
   "stats": {
-    "health": 2781,
+    "health": 2839,
     "power": 100,
     "powerType": "Rage",
-    "strength": 181,
-    "agility": 69,
-    "stamina": 198,
-    "intellect": 26,
-    "spirit": 64,
+    "strength": 186,
+    "agility": 76,
+    "stamina": 199,
+    "intellect": 27,
+    "spirit": 58,
     "spellPower": 0,
     "healing": 0,
     "spellCrit": 0,
     "spellHaste": 0,
     "spellPenetration": 0,
     "manaRegen": 0,
-    "attackPower": 492,
-    "meleeCrit": 7.33,
+    "attackPower": 505,
+    "meleeCrit": 8.59,
     "meleeHaste": 0,
-    "rangedCrit": 3.49,
-    "armor": 3468,
-    "defense": 272,
-    "dodge": 5.65,
-    "parry": 12.21,
-    "block": 11.28
+    "rangedCrit": 3.71,
+    "armor": 3651,
+    "defense": 273,
+    "dodge": 5.87,
+    "parry": 12.05,
+    "block": 11.12
   },
   "talents": [
     {
@@ -359,14 +359,14 @@
         {
           "id": 164,
           "name": "Fury",
-          "points": 3,
+          "points": 4,
           "talents": [
             {
               "id": 105939,
               "spellId": 12320,
               "name": "Cruelty",
-              "description": "Improves your chance to get a critical strike with melee attacks by 3%.",
-              "rank": 3
+              "description": "Improves your chance to get a critical strike with melee attacks by 4%.",
+              "rank": 4
             }
           ]
         },
@@ -505,7 +505,7 @@
       ],
       [
         3,
-        27003
+        16458
       ],
       [
         4,
@@ -549,7 +549,7 @@
       ]
     ]
   },
-  "fetchedAt": 1795600597311,
+  "fetchedAt": 1795636773157,
   "fromCache": false,
   "raceRanks": null
 }
