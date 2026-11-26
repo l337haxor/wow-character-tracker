@@ -11,62 +11,73 @@
 
 ## Suggested next areas
 
-- **Stranglethorn Vale:** 2 active quest(s); combine nearby objectives.
-- **Arathi Highlands:** 1 active quest(s); combine nearby objectives.
-- **Unknown:** 27 active quest(s); combine nearby objectives.
-- **Hinterlands:** 2 active quest(s); combine nearby objectives.
-- **Swamp of Sorrows:** 2 active quest(s); combine nearby objectives.
+- **Stranglethorn Vale:** 5 active quest(s); combine nearby objectives.
+- **Arathi Highlands:** 2 active quest(s); combine nearby objectives.
+- **Feralas:** 6 active quest(s); combine nearby objectives.
+- **Zul'Farrak:** 5 active quest(s); dungeon quests; confirm group suitability.
+- **Hinterlands:** 3 active quest(s); combine nearby objectives.
 
 ## Active quests grouped by area
 
-### Stranglethorn Vale (2)
+### Stranglethorn Vale (5)
 
 - **[Stranglethorn Fever](https://questing.wiki/wow-forever/quests/348/)** (#348): Find Witch Doctor Unbagwa, summon Mokk the Savage and return his heart to Fin Fizracket
+- **[The Mind's Eye](https://questing.wiki/wow-forever/quests/591/)** (#591): Continue the Yenniku chain; check group requirements
 - **[The Bloodsail Buccaneers](https://questing.wiki/wow-forever/quests/604/)** (#604): At Wild Shore, kill 10 Bloodsail Swashbucklers and recover Charts and Orders
+- **[Cracking Maury's Foot](https://questing.wiki/wow-forever/quests/613/)** (#613): Complete the Booty Bay debt follow-up
+- **[Get the Goods](https://db.icy-veins.com/wow-forever/quests/95322)** (#95322): Examine Bloodsail Trunk outside Booty Bay
 
-### Arathi Highlands (1)
+### Arathi Highlands (2)
 
+- **[Summoning the Princess](https://questing.wiki/wow-forever/quests/656/)** (#656): Complete the Myzrael chain; check elite difficulty
 - **[Guile of the Raptor](https://questing.wiki/wow-forever/quests/701/)** (#701): Collect Highland raptor hearts
 
-### Unknown (27)
+### Feralas (6)
 
-- **Unmapped quest** (#591): Requires manual lookup
-- **Unmapped quest** (#613): Requires manual lookup
-- **Unmapped quest** (#650): Requires manual lookup
-- **Unmapped quest** (#656): Requires manual lookup
-- **Unmapped quest** (#714): Requires manual lookup
-- **Unmapped quest** (#736): Requires manual lookup
-- **Unmapped quest** (#1205): Requires manual lookup
-- **Unmapped quest** (#2339): Requires manual lookup
-- **Unmapped quest** (#2418): Requires manual lookup
-- **Unmapped quest** (#2752): Requires manual lookup
-- **Unmapped quest** (#2756): Requires manual lookup
-- **Unmapped quest** (#2766): Requires manual lookup
-- **Unmapped quest** (#2770): Requires manual lookup
-- **Unmapped quest** (#2822): Requires manual lookup
-- **Unmapped quest** (#2846): Requires manual lookup
-- **Unmapped quest** (#2980): Requires manual lookup
-- **Unmapped quest** (#3042): Requires manual lookup
-- **Unmapped quest** (#3062): Requires manual lookup
-- **Unmapped quest** (#3063): Requires manual lookup
-- **Unmapped quest** (#3128): Requires manual lookup
-- **Unmapped quest** (#3380): Requires manual lookup
-- **Unmapped quest** (#3527): Requires manual lookup
-- **Unmapped quest** (#4120): Requires manual lookup
-- **Unmapped quest** (#7068): Requires manual lookup
-- **Unmapped quest** (#95321): Requires manual lookup
-- **Unmapped quest** (#95322): Requires manual lookup
-- **Unmapped quest** (#96775): Requires manual lookup
+- **[Find OOX-22/FE!](https://questing.wiki/wow-forever/quests/2766/)** (#2766): Locate the mechanical chicken
+- **[The Mark of Quality](https://questing.wiki/wow-forever/quests/2822/)** (#2822): Collect the required yeti hides
+- **[The Ogres of Feralas](https://questing.wiki/wow-forever/quests/2980/)** (#2980): Ogre hunting chain
+- **[Dark Heart](https://questing.wiki/wow-forever/quests/3062/)** (#3062): Northspring harpy chain; check group requirements
+- **[Vengeance on the Northspring](https://questing.wiki/wow-forever/quests/3063/)** (#3063): Northspring harpy hunting
+- **[Natural Materials](https://questing.wiki/wow-forever/quests/3128/)** (#3128): Collect required materials from local mobs
 
-### Hinterlands (2)
+### Zul'Farrak (5)
 
+- **[Gahz'rilla](https://questing.wiki/wow-forever/quests/2770/)** (#2770): Return scale to Wizzle Brassbolts; Carrot on a Stick reward
+- **[Tiara of the Deep](https://questing.wiki/wow-forever/quests/2846/)** (#2846): Return tiara to Tabetha in Dustwallow Marsh
+- **[Troll Temper](https://questing.wiki/wow-forever/quests/3042/)** (#3042): Turn in 20 Troll Temper in Gadgetzan
+- **[The Prophecy of Mosh'aru](https://questing.wiki/wow-forever/quests/3527/)** (#3527): Return tablets to Yeh'kinya at Steamwheedle Port
+- **[Zum'rah's Head](https://db.icy-veins.com/wow-forever/quests/96775)** (#96775): Return head to Mazu'kon in Mulgore
+
+### Hinterlands (3)
+
+- **[Ripple Recovery](https://questing.wiki/wow-forever/quests/650/)** (#650): Find Gilveradin Sunchaser
 - **[The Atal'ai Exile](https://questing.wiki/wow-forever/quests/1429/)** (#1429): Deliver Fel'zerul's artifact bundle to the exile in Hinterlands
 - **[Grim Message](https://questing.wiki/wow-forever/quests/2932/)** (#2932): Collect Witherbark Skulls and plant Nimboya's pike at a troll village
+
+### Dustwallow Marsh (2)
+
+- **[Razzeric's Tweaking](https://questing.wiki/wow-forever/quests/1187/)** (#1187): Retrieve Seaforium Booster from zeppelin wreck
+- **[Deadmire](https://questing.wiki/wow-forever/quests/1205/)** (#1205): Hunt Deadmire
+
+### Orgrimmar (2)
+
+- **[On Iron Pauldrons](https://questing.wiki/wow-forever/quests/2752/)** (#2752): Blacksmithing quest; consult required materials
+- **[The Old Ways](https://questing.wiki/wow-forever/quests/2756/)** (#2756): Blacksmithing specialization chain
 
 ### Swamp of Sorrows (2)
 
 - **[Fresh Meat](https://questing.wiki/wow-forever/quests/1430/)** (#1430): Collect 10 Monstrous Crawler Legs for Dar in Stonard
 - **[My Little Friends](https://questing.wiki/wow-forever/quests/93176/)** (#93176): Quest source names Amaryllis Webb but lacks reliable objective details; check the in-game log
+
+### Tanaris (2)
+
+- **[The Sunken Temple](https://questing.wiki/wow-forever/quests/3380/)** (#3380): Follow up with Marvon Rivetseeker
+- **[Tazzik's Dues](https://www.forever-xp.com/quests/95321/)** (#95321): Confront Tazzik in Steamwheedle Port
+
+### Badlands (1)
+
+- **[Gyro... What?](https://questing.wiki/wow-forever/quests/714/)** (#714): Obtain the required gyro item for Lotwil
 
 ### Booty Bay (Stranglethorn Vale) (1)
 
@@ -76,9 +87,25 @@
 
 - **[Satyr Hooves](https://questing.wiki/wow-forever/quests/1842/)** (#1842): Older Brutal Gauntlets material quest; low-level
 
-### Dustwallow Marsh (1)
+### Felwood (1)
 
-- **[Razzeric's Tweaking](https://questing.wiki/wow-forever/quests/1187/)** (#1187): Retrieve Seaforium Booster from zeppelin wreck
+- **[The Strength of Corruption](https://questing.wiki/wow-forever/quests/4120/)** (#4120): Felwood objectives; return to Talo Thornhoof
+
+### Maraudon (1)
+
+- **[Shadowshard Fragments](https://questing.wiki/wow-forever/quests/7068/)** (#7068): Collect fragments; useful for next dungeon
+
+### Uldaman (1)
+
+- **[Find the Gems and Power Source](https://questing.wiki/wow-forever/quests/2339/)** (#2339): Necklace chain; final boss power source required
+
+### Uldaman exterior (1)
+
+- **[Power Stones](https://questing.wiki/wow-forever/quests/2418/)** (#2418): Collect power stones from Shadowforge dwarves
+
+### Undercity / multiple zones (1)
+
+- **[The Star, the Hand and the Heart](https://questing.wiki/wow-forever/quests/736/)** (#736): Multi-zone collection chain; return to Keeper Bel'dugur
 
 ## Limitations
 
@@ -86,4 +113,4 @@
 - Active quests may already have completed objectives awaiting turn-in; this export has no objective counters.
 - Catalog names, zones and notes are community-derived and must be checked in game.
 - This generator cannot discover new unaccepted quests or independently validate dungeon levels and rewards.
-- Unmapped active quest IDs: 591, 613, 650, 656, 714, 736, 1205, 2339, 2418, 2752, 2756, 2766, 2770, 2822, 2846, 2980, 3042, 3062, 3063, 3128, 3380, 3527, 4120, 7068, 95321, 95322, 96775.
+- Unmapped active quest IDs: none.
