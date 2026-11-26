@@ -2,7 +2,7 @@
   "schema": 10,
   "blizzardId": 7332859,
   "name": "Chubby Cheekz",
-  "level": 49,
+  "level": 50,
   "race": "Troll",
   "raceId": 8,
   "className": "Warrior",
@@ -12,7 +12,7 @@
   "guild": "WASTEMANS",
   "guildSlug": "wastemans",
   "guildServer": null,
-  "lastLogin": 1795619459000,
+  "lastLogin": 1795673815000,
   "region": "us",
   "server": "normal",
   "serverName": null,
@@ -170,11 +170,11 @@
       "slot": "HANDS",
       "slotName": "Hands",
       "inventoryType": "HAND",
-      "id": 6906,
-      "name": "Algae Fists",
+      "id": 9640,
+      "name": "Vice Grips of the Beast",
       "quality": "RARE",
-      "ilvl": 28,
-      "icon": "https://wow.zamimg.com/images/wow/icons/large/inv_gauntlets_10.jpg",
+      "ilvl": 50,
+      "icon": "https://wow.zamimg.com/images/wow/icons/large/inv_gauntlets_26.jpg",
       "setName": null,
       "setPieces": [],
       "enchant": null,
@@ -218,11 +218,11 @@
       "slot": "TRINKET_1",
       "slotName": "Trinket 1",
       "inventoryType": "TRINKET",
-      "id": 280766,
-      "name": "Satchel of Potions",
+      "id": 11122,
+      "name": "Carrot on a Stick",
       "quality": "UNCOMMON",
-      "ilvl": 33,
-      "icon": "https://wow.zamimg.com/images/wow/icons/large/inv_misc_bag_08.jpg",
+      "ilvl": 50,
+      "icon": "https://wow.zamimg.com/images/wow/icons/large/inv_misc_food_54.jpg",
       "setName": null,
       "setPieces": [],
       "enchant": null,
@@ -234,11 +234,11 @@
       "slot": "TRINKET_2",
       "slotName": "Trinket 2",
       "inventoryType": "TRINKET",
-      "id": 276895,
-      "name": "Transformative Cocoon",
+      "id": 10455,
+      "name": "Chained Essence of Eranikus",
       "quality": "UNCOMMON",
-      "ilvl": 30,
-      "icon": "https://wow.zamimg.com/images/wow/icons/large/inv_misc_web_02.jpg",
+      "ilvl": 60,
+      "icon": "https://wow.zamimg.com/images/wow/icons/large/inv_stone_03.jpg",
       "setName": null,
       "setPieces": [],
       "enchant": null,
@@ -266,11 +266,11 @@
       "slot": "MAIN_HAND",
       "slotName": "Main Hand",
       "inventoryType": "WEAPON",
-      "id": 279852,
-      "name": "Rock on Stick",
+      "id": 10804,
+      "name": "Fist of the Damned",
       "quality": "RARE",
-      "ilvl": 47,
-      "icon": "https://wow.zamimg.com/images/wow/icons/large/inv_hammer_09.jpg",
+      "ilvl": 54,
+      "icon": "https://wow.zamimg.com/images/wow/icons/large/inv_hammer_11.jpg",
       "setName": null,
       "setPieces": [],
       "enchant": null,
@@ -311,15 +311,15 @@
       "socketBonus": null
     }
   ],
-  "averageIlvl": 39,
-  "gearscore": 429,
+  "averageIlvl": 44,
+  "gearscore": 478,
   "stats": {
-    "health": 2839,
+    "health": 2969,
     "power": 100,
     "powerType": "Rage",
-    "strength": 186,
-    "agility": 76,
-    "stamina": 199,
+    "strength": 181,
+    "agility": 83,
+    "stamina": 207,
     "intellect": 27,
     "spirit": 58,
     "spellPower": 0,
@@ -328,15 +328,15 @@
     "spellHaste": 0,
     "spellPenetration": 0,
     "manaRegen": 0,
-    "attackPower": 505,
-    "meleeCrit": 8.59,
+    "attackPower": 512,
+    "meleeCrit": 9.98,
     "meleeHaste": 0,
-    "rangedCrit": 3.71,
-    "armor": 3651,
-    "defense": 273,
-    "dodge": 5.87,
-    "parry": 12.05,
-    "block": 11.12
+    "rangedCrit": 4.02,
+    "armor": 3863,
+    "defense": 282,
+    "dodge": 6.34,
+    "parry": 12.21,
+    "block": 11.28
   },
   "talents": [
     {
@@ -359,14 +359,14 @@
         {
           "id": 164,
           "name": "Fury",
-          "points": 4,
+          "points": 5,
           "talents": [
             {
               "id": 105939,
               "spellId": 12320,
               "name": "Cruelty",
-              "description": "Improves your chance to get a critical strike with melee attacks by 4%.",
-              "rank": 4
+              "description": "Improves your chance to get a critical strike with melee attacks by 5%.",
+              "rank": 5
             }
           ]
         },
@@ -533,7 +533,7 @@
       ],
       [
         10,
-        9082
+        17416
       ],
       [
         16,
@@ -541,7 +541,7 @@
       ],
       [
         21,
-        746295
+        19892
       ],
       [
         14,
@@ -549,7 +549,7 @@
       ]
     ]
   },
-  "fetchedAt": 1795661723422,
+  "fetchedAt": 1795697633638,
   "fromCache": false,
   "raceRanks": null
 }

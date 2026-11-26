@@ -3,11 +3,11 @@
 > Automatically generated from the latest published Armory data and manually exported quest history.
 > Quest objectives, exact dungeon suitability and rewards are not independently verified.
 
-**Character:** level 49 Troll Warrior · 715 completed quests · 37 active quests
+**Character:** level 50 Troll Warrior · 715 completed quests · 37 active quests
 
-**Armory fetched:** 2026-11-26 02:55 UTC · **Quest export saved:** 2026-11-26 00:37 UTC
+**Armory fetched:** 2026-11-26 12:53 UTC · **Quest export saved:** 2026-11-26 00:37 UTC
 
-**Weapon:** Rock on Stick · **Off-hand/shield:** Twilight Barrier
+**Weapon:** Fist of the Damned · **Off-hand/shield:** Twilight Barrier
 
 ## Suggested next areas
 
