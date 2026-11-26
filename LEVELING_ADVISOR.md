@@ -5,7 +5,7 @@
 
 **Character:** level 50 Troll Warrior · 715 completed quests · 37 active quests
 
-**Armory fetched:** 2026-11-26 12:53 UTC · **Quest export saved:** 2026-11-26 00:37 UTC
+**Armory fetched:** 2026-11-26 22:27 UTC · **Quest export saved:** 2026-11-26 00:37 UTC
 
 **Weapon:** Fist of the Damned · **Off-hand/shield:** Twilight Barrier
 
