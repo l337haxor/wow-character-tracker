@@ -5,7 +5,7 @@
 
 **Character:** level 49 Troll Warrior · 715 completed quests · 37 active quests
 
-**Armory fetched:** 2026-11-26 00:40 UTC · **Quest export saved:** 2026-11-26 00:37 UTC
+**Armory fetched:** 2026-11-26 02:55 UTC · **Quest export saved:** 2026-11-26 00:37 UTC
 
 **Weapon:** Rock on Stick · **Off-hand/shield:** Twilight Barrier
 

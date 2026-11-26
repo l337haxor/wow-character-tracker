@@ -1,13 +1,13 @@
 {
   "chubby-cheekz.json": {
     "name": "Chubby Cheekz",
-    "outcome": "character_changed",
-    "source_fetched_at": 1795636773157,
+    "outcome": "source_refreshed_unchanged",
+    "source_fetched_at": 1795661723422,
     "source_from_cache": false,
-    "character_changed": true,
+    "character_changed": false,
     "last_error": null,
     "last_error_at": null,
-    "last_successful_published_snapshot": "2026-11-25T19:59:32Z",
-    "last_successful_check": "2026-11-25T19:59:32Z"
+    "last_successful_published_snapshot": "2026-11-26T02:55:22Z",
+    "last_successful_check": "2026-11-26T02:55:22Z"
   }
 }
