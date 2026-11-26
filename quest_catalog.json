@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "sourceNote": "Community WoW Forever quest databases (Questing.wiki, Forever XP, Forever Tool, Icy Veins, Zephras), updated 2026-11-22. Names, zones and objectives are research-derived and not individually live-verified in game. Quest states come from quests-chubby-cheekz.json.",
+  "sourceNote": "Community Forever quest databases; updated 2026-11-25. Catalog names and notes are research-derived, not live-verified. Quest status from saved export.",
   "quests": [
     {
       "id": 196,
@@ -107,6 +107,14 @@
       "source": "https://questing.wiki/wow-forever/quests/589/"
     },
     {
+      "id": 591,
+      "name": "The Mind's Eye",
+      "zone": "Stranglethorn Vale",
+      "type": "elite",
+      "note": "Continue the Yenniku chain; check group requirements",
+      "source": "https://questing.wiki/wow-forever/quests/591/"
+    },
+    {
       "id": 595,
       "name": "The Bloodsail Buccaneers",
       "zone": "Stranglethorn Vale",
@@ -155,6 +163,14 @@
       "source": "https://questing.wiki/wow-forever/quests/609/"
     },
     {
+      "id": 613,
+      "name": "Cracking Maury's Foot",
+      "zone": "Stranglethorn Vale",
+      "type": "field",
+      "note": "Complete the Booty Bay debt follow-up",
+      "source": "https://questing.wiki/wow-forever/quests/613/"
+    },
+    {
       "id": 617,
       "name": "Akiris by the Bundle",
       "zone": "Stranglethorn Vale",
@@ -193,6 +209,22 @@
       "type": "elite",
       "note": "Prince Galen in Stromgarde; group if needed",
       "source": "https://questing.wiki/wow-forever/quests/644/"
+    },
+    {
+      "id": 650,
+      "name": "Ripple Recovery",
+      "zone": "Hinterlands",
+      "type": "travel",
+      "note": "Find Gilveradin Sunchaser",
+      "source": "https://questing.wiki/wow-forever/quests/650/"
+    },
+    {
+      "id": 656,
+      "name": "Summoning the Princess",
+      "zone": "Arathi Highlands",
+      "type": "elite",
+      "note": "Complete the Myzrael chain; check elite difficulty",
+      "source": "https://questing.wiki/wow-forever/quests/656/"
     },
     {
       "id": 670,
@@ -259,12 +291,28 @@
       "source": "https://questing.wiki/wow-forever/quests/713/"
     },
     {
+      "id": 714,
+      "name": "Gyro... What?",
+      "zone": "Badlands",
+      "type": "collection",
+      "note": "Obtain the required gyro item for Lotwil",
+      "source": "https://questing.wiki/wow-forever/quests/714/"
+    },
+    {
       "id": 716,
       "name": "Stone Is Better than Cloth",
       "zone": "Badlands",
       "type": "profession",
       "note": "Bring Patterned Bronze Bracers to Lucien Tosselwrench; reward is cloth bracers",
       "source": "https://questing.wiki/wow-forever/quests/716/"
+    },
+    {
+      "id": 736,
+      "name": "The Star, the Hand and the Heart",
+      "zone": "Undercity / multiple zones",
+      "type": "elite",
+      "note": "Multi-zone collection chain; return to Keeper Bel'dugur",
+      "source": "https://questing.wiki/wow-forever/quests/736/"
     },
     {
       "id": 782,
@@ -323,6 +371,14 @@
       "source": "https://questing.wiki/wow-forever/quests/1187/"
     },
     {
+      "id": 1205,
+      "name": "Deadmire",
+      "zone": "Dustwallow Marsh",
+      "type": "field",
+      "note": "Hunt Deadmire",
+      "source": "https://questing.wiki/wow-forever/quests/1205/"
+    },
+    {
       "id": 1420,
       "name": "Report to Helgrum",
       "zone": "Badlands → Swamp of Sorrows",
@@ -379,12 +435,76 @@
       "source": "https://questing.wiki/wow-forever/quests/2258/"
     },
     {
+      "id": 2339,
+      "name": "Find the Gems and Power Source",
+      "zone": "Uldaman",
+      "type": "dungeon",
+      "note": "Necklace chain; final boss power source required",
+      "source": "https://questing.wiki/wow-forever/quests/2339/"
+    },
+    {
+      "id": 2418,
+      "name": "Power Stones",
+      "zone": "Uldaman exterior",
+      "type": "field",
+      "note": "Collect power stones from Shadowforge dwarves",
+      "source": "https://questing.wiki/wow-forever/quests/2418/"
+    },
+    {
       "id": 2751,
       "name": "Barbaric Battlements",
       "zone": "Orgrimmar / Blacksmithing",
       "type": "profession",
       "note": "Rewards Plans: Barbaric Iron Breastplate; check materials",
       "source": "https://questing.wiki/wow-forever/quests/2751/"
+    },
+    {
+      "id": 2752,
+      "name": "On Iron Pauldrons",
+      "zone": "Orgrimmar",
+      "type": "profession",
+      "note": "Blacksmithing quest; consult required materials",
+      "source": "https://questing.wiki/wow-forever/quests/2752/"
+    },
+    {
+      "id": 2756,
+      "name": "The Old Ways",
+      "zone": "Orgrimmar",
+      "type": "profession",
+      "note": "Blacksmithing specialization chain",
+      "source": "https://questing.wiki/wow-forever/quests/2756/"
+    },
+    {
+      "id": 2766,
+      "name": "Find OOX-22/FE!",
+      "zone": "Feralas",
+      "type": "field",
+      "note": "Locate the mechanical chicken",
+      "source": "https://questing.wiki/wow-forever/quests/2766/"
+    },
+    {
+      "id": 2770,
+      "name": "Gahz'rilla",
+      "zone": "Zul'Farrak",
+      "type": "dungeon",
+      "note": "Return scale to Wizzle Brassbolts; Carrot on a Stick reward",
+      "source": "https://questing.wiki/wow-forever/quests/2770/"
+    },
+    {
+      "id": 2822,
+      "name": "The Mark of Quality",
+      "zone": "Feralas",
+      "type": "field",
+      "note": "Collect the required yeti hides",
+      "source": "https://questing.wiki/wow-forever/quests/2822/"
+    },
+    {
+      "id": 2846,
+      "name": "Tiara of the Deep",
+      "zone": "Zul'Farrak",
+      "type": "dungeon",
+      "note": "Return tiara to Tabetha in Dustwallow Marsh",
+      "source": "https://questing.wiki/wow-forever/quests/2846/"
     },
     {
       "id": 2872,
@@ -403,6 +523,70 @@
       "source": "https://questing.wiki/wow-forever/quests/2932/"
     },
     {
+      "id": 2980,
+      "name": "The Ogres of Feralas",
+      "zone": "Feralas",
+      "type": "field",
+      "note": "Ogre hunting chain",
+      "source": "https://questing.wiki/wow-forever/quests/2980/"
+    },
+    {
+      "id": 3042,
+      "name": "Troll Temper",
+      "zone": "Zul'Farrak",
+      "type": "dungeon",
+      "note": "Turn in 20 Troll Temper in Gadgetzan",
+      "source": "https://questing.wiki/wow-forever/quests/3042/"
+    },
+    {
+      "id": 3062,
+      "name": "Dark Heart",
+      "zone": "Feralas",
+      "type": "elite",
+      "note": "Northspring harpy chain; check group requirements",
+      "source": "https://questing.wiki/wow-forever/quests/3062/"
+    },
+    {
+      "id": 3063,
+      "name": "Vengeance on the Northspring",
+      "zone": "Feralas",
+      "type": "field",
+      "note": "Northspring harpy hunting",
+      "source": "https://questing.wiki/wow-forever/quests/3063/"
+    },
+    {
+      "id": 3128,
+      "name": "Natural Materials",
+      "zone": "Feralas",
+      "type": "field",
+      "note": "Collect required materials from local mobs",
+      "source": "https://questing.wiki/wow-forever/quests/3128/"
+    },
+    {
+      "id": 3380,
+      "name": "The Sunken Temple",
+      "zone": "Feralas → Tanaris",
+      "type": "travel",
+      "note": "Follow up with Marvon Rivetseeker",
+      "source": "https://questing.wiki/wow-forever/quests/3380/"
+    },
+    {
+      "id": 3527,
+      "name": "The Prophecy of Mosh'aru",
+      "zone": "Zul'Farrak",
+      "type": "dungeon",
+      "note": "Return tablets to Yeh'kinya at Steamwheedle Port",
+      "source": "https://questing.wiki/wow-forever/quests/3527/"
+    },
+    {
+      "id": 4120,
+      "name": "The Strength of Corruption",
+      "zone": "Feralas → Felwood",
+      "type": "field",
+      "note": "Felwood objectives; return to Talo Thornhoof",
+      "source": "https://questing.wiki/wow-forever/quests/4120/"
+    },
+    {
       "id": 6521,
       "name": "An Unholy Alliance",
       "zone": "Razorfen Downs entrance",
@@ -417,6 +601,14 @@
       "type": "dungeon",
       "note": "Older low-level dungeon quest; low leveling priority",
       "source": "https://questing.wiki/wow-forever/quests/6561/"
+    },
+    {
+      "id": 7068,
+      "name": "Shadowshard Fragments",
+      "zone": "Maraudon",
+      "type": "dungeon",
+      "note": "Collect fragments; useful for next dungeon",
+      "source": "https://questing.wiki/wow-forever/quests/7068/"
     },
     {
       "id": 8551,
@@ -539,6 +731,22 @@
       "source": "https://www.forever-xp.com/quests/95288/"
     },
     {
+      "id": 95321,
+      "name": "Tazzik's Dues",
+      "zone": "Tanaris",
+      "type": "field",
+      "note": "Confront Tazzik in Steamwheedle Port",
+      "source": "https://www.forever-xp.com/quests/95321/"
+    },
+    {
+      "id": 95322,
+      "name": "Get the Goods",
+      "zone": "Stranglethorn Vale",
+      "type": "field",
+      "note": "Examine Bloodsail Trunk outside Booty Bay",
+      "source": "https://db.icy-veins.com/wow-forever/quests/95322"
+    },
+    {
       "id": 95773,
       "name": "Enemies in the Water",
       "zone": "Stranglethorn Vale",
@@ -593,6 +801,14 @@
       "type": "dungeon",
       "note": "Recover idol in dungeon; Horde quest",
       "source": "https://www.forever-xp.com/quests/96774/"
+    },
+    {
+      "id": 96775,
+      "name": "Zum'rah's Head",
+      "zone": "Zul'Farrak",
+      "type": "dungeon",
+      "note": "Return head to Mazu'kon in Mulgore",
+      "source": "https://db.icy-veins.com/wow-forever/quests/96775"
     },
     {
       "id": 97196,
