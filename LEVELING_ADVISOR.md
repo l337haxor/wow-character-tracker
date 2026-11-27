@@ -3,11 +3,11 @@
 > Automatically generated from the latest published Armory data and manually exported quest history.
 > Quest objectives, exact dungeon suitability and rewards are not independently verified.
 
-**Character:** level 51 Troll Warrior · 778 completed quests · 26 active quests
+**Character:** level 52 Troll Warrior · 778 completed quests · 26 active quests
 
-**Armory fetched:** 2026-11-27 15:21 UTC · **Quest export saved:** 2026-11-27 22:34 UTC
+**Armory fetched:** 2026-11-27 22:35 UTC · **Quest export saved:** 2026-11-27 22:34 UTC
 
-**Weapon:** Thrash Blade · **Off-hand/shield:** Putridus Wall
+**Weapon:** Fist of the Damned · **Off-hand/shield:** Putridus Wall
 
 ## Suggested next areas
 
