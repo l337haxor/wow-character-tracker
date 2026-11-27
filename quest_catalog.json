@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "sourceNote": "Community Forever quest databases; updated 2026-11-25. Catalog names and notes are research-derived, not live-verified. Quest status from saved export.",
+  "sourceNote": "Community WoW Forever databases, updated 2026-11-27. Latest active quest additions checked against Icy Veins; quest state from local export.",
   "quests": [
     {
       "id": 196,
@@ -185,6 +185,14 @@
       "type": "field",
       "note": "Collect 12 Zanzil's Mixtures northeast of Booty Bay",
       "source": "https://questing.wiki/wow-forever/quests/621/"
+    },
+    {
+      "id": 624,
+      "name": "Cortello's Riddle (Part 1)",
+      "zone": "Swamp of Sorrows",
+      "type": "travel",
+      "note": "Find the soggy scroll at 22.9, 48.2 beneath the bridge",
+      "source": "https://db.icy-veins.com/wow-forever/quests/624"
     },
     {
       "id": 628,
@@ -387,6 +395,14 @@
       "source": "https://questing.wiki/wow-forever/quests/1420/"
     },
     {
+      "id": 1426,
+      "name": "Threat From the Sea (Part 2)",
+      "zone": "Swamp of Sorrows",
+      "type": "field",
+      "note": "Continue the coastal murloc quest chain",
+      "source": "https://db.icy-veins.com/wow-forever/quests/1426"
+    },
+    {
       "id": 1429,
       "name": "The Atal'ai Exile",
       "zone": "Swamp of Sorrows → Hinterlands",
@@ -449,6 +465,14 @@
       "type": "field",
       "note": "Collect power stones from Shadowforge dwarves",
       "source": "https://questing.wiki/wow-forever/quests/2418/"
+    },
+    {
+      "id": 2623,
+      "name": "The Swamp Talker",
+      "zone": "Swamp of Sorrows",
+      "type": "field",
+      "note": "Recover the stolen orders from Swamp Talker and return to Fallen Hero of the Horde",
+      "source": "https://db.icy-veins.com/wow-forever/quests/2623"
     },
     {
       "id": 2751,
@@ -555,6 +579,14 @@
       "source": "https://questing.wiki/wow-forever/quests/3063/"
     },
     {
+      "id": 3123,
+      "name": "Testing the Vessel",
+      "zone": "Feralas",
+      "type": "field",
+      "note": "Start the Muisek quest chain; check the log for the capture objective",
+      "source": "https://db.icy-veins.com/wow-forever/quests/3123"
+    },
+    {
       "id": 3128,
       "name": "Natural Materials",
       "zone": "Feralas",
@@ -569,6 +601,14 @@
       "type": "travel",
       "note": "Follow up with Marvon Rivetseeker",
       "source": "https://questing.wiki/wow-forever/quests/3380/"
+    },
+    {
+      "id": 3444,
+      "name": "The Stone Circle",
+      "zone": "The Barrens → Tanaris",
+      "type": "travel",
+      "note": "Collect the stone from Marvon's workshop in Ratchet and return it to Marvon",
+      "source": "https://db.icy-veins.com/wow-forever/quests/3444"
     },
     {
       "id": 3527,
@@ -587,6 +627,14 @@
       "source": "https://questing.wiki/wow-forever/quests/4120/"
     },
     {
+      "id": 4787,
+      "name": "The Ancient Egg",
+      "zone": "Hinterlands",
+      "type": "elite",
+      "note": "Recover the egg from the cave atop Jintha'Alor; return to Yeh'kinya at Steamwheedle Port for the Sunken Temple follow-up",
+      "source": "https://db.icy-veins.com/wow-forever/quests/4787"
+    },
+    {
       "id": 6521,
       "name": "An Unholy Alliance",
       "zone": "Razorfen Downs entrance",
@@ -601,6 +649,22 @@
       "type": "dungeon",
       "note": "Older low-level dungeon quest; low leveling priority",
       "source": "https://questing.wiki/wow-forever/quests/6561/"
+    },
+    {
+      "id": 7066,
+      "name": "Seed of Life",
+      "zone": "Moonglade",
+      "type": "turnin",
+      "note": "Deliver the seed to Keeper Remulos (36.3, 41.9)",
+      "source": "https://db.icy-veins.com/wow-forever/quests/7066"
+    },
+    {
+      "id": 7067,
+      "name": "The Pariah's Instructions",
+      "zone": "Maraudon",
+      "type": "dungeon",
+      "note": "Recover five Khan gems; turn in to Centaur Pariah in southern Desolace for Mark of the Chosen",
+      "source": "https://db.icy-veins.com/wow-forever/quests/7067"
     },
     {
       "id": 7068,
@@ -635,6 +699,14 @@
       "source": "https://www.forever-xp.com/quests/79236/"
     },
     {
+      "id": 79242,
+      "name": "No Honor Among Thieves",
+      "zone": "Arathi Highlands",
+      "type": "field",
+      "note": "Find Illari Duskfeather and access her loot cache on the coast",
+      "source": "https://db.icy-veins.com/wow-forever/quests/79242"
+    },
+    {
       "id": 93176,
       "name": "My Little Friends",
       "zone": "Swamp of Sorrows",
@@ -649,6 +721,14 @@
       "type": "travel",
       "note": "Find Azore Aldamort in Desolace (38.9, 27.2) for the draenethyst chain",
       "source": "https://forever-xp.com/quests/93464/"
+    },
+    {
+      "id": 93604,
+      "name": "Agamaggan's Blood",
+      "zone": "Razorfen Downs",
+      "type": "dungeon",
+      "note": "Collect blood for Kog'thug; part of the Shen'dralas quest chain",
+      "source": "https://db.icy-veins.com/wow-forever/quests/93604"
     },
     {
       "id": 93663,
@@ -747,6 +827,14 @@
       "source": "https://db.icy-veins.com/wow-forever/quests/95322"
     },
     {
+      "id": 95325,
+      "name": "We've Been Robbed!",
+      "zone": "Stranglethorn Vale",
+      "type": "field",
+      "note": "Investigate Venture Co camp and locate the ledger",
+      "source": "https://db.icy-veins.com/wow-forever/quests/95325"
+    },
+    {
       "id": 95773,
       "name": "Enemies in the Water",
       "zone": "Stranglethorn Vale",
@@ -793,6 +881,14 @@
       "type": "travel",
       "note": "Deliver the tablet etchings to Master Gadrin in Sen'jin Village; includes a weapon-choice reward",
       "source": "https://forever-xp.com/quests/96078/"
+    },
+    {
+      "id": 96222,
+      "name": "Khan Hratha",
+      "zone": "Desolace",
+      "type": "field",
+      "note": "Obtain a war horn mouthpiece, challenge Khan Hratha and return the key fragment to Umarak",
+      "source": "https://db.icy-veins.com/wow-forever/quests/96222"
     },
     {
       "id": 96774,
