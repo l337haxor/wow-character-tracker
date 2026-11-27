@@ -2,7 +2,7 @@
   "schema": 10,
   "blizzardId": 7332859,
   "name": "Chubby Cheekz",
-  "level": 51,
+  "level": 52,
   "race": "Troll",
   "raceId": 8,
   "className": "Warrior",
@@ -12,7 +12,7 @@
   "guild": "WASTEMANS",
   "guildSlug": "wastemans",
   "guildServer": null,
-  "lastLogin": 1795754966000,
+  "lastLogin": 1795818880000,
   "region": "us",
   "server": "normal",
   "serverName": null,
@@ -266,11 +266,11 @@
       "slot": "MAIN_HAND",
       "slotName": "Main Hand",
       "inventoryType": "WEAPON",
-      "id": 17705,
-      "name": "Thrash Blade",
+      "id": 10804,
+      "name": "Fist of the Damned",
       "quality": "RARE",
-      "ilvl": 53,
-      "icon": "https://wow.zamimg.com/images/wow/icons/large/inv_sword_36.jpg",
+      "ilvl": 54,
+      "icon": "https://wow.zamimg.com/images/wow/icons/large/inv_hammer_11.jpg",
       "setName": null,
       "setPieces": [],
       "enchant": null,
@@ -312,14 +312,14 @@
     }
   ],
   "averageIlvl": 45,
-  "gearscore": 499,
+  "gearscore": 500,
   "stats": {
-    "health": 3141,
+    "health": 3215,
     "power": 100,
     "powerType": "Rage",
-    "strength": 170,
-    "agility": 79,
-    "stamina": 219,
+    "strength": 172,
+    "agility": 80,
+    "stamina": 221,
     "intellect": 26,
     "spirit": 59,
     "spellPower": 0,
@@ -328,12 +328,12 @@
     "spellHaste": 0,
     "spellPenetration": 0,
     "manaRegen": 0,
-    "attackPower": 493,
-    "meleeCrit": 9.02,
+    "attackPower": 500,
+    "meleeCrit": 9.54,
     "meleeHaste": 0,
-    "rangedCrit": 3.62,
-    "armor": 4272,
-    "defense": 290,
+    "rangedCrit": 3.42,
+    "armor": 4274,
+    "defense": 295,
     "dodge": 6.1,
     "parry": 12.33,
     "block": 12.4
@@ -359,7 +359,7 @@
         {
           "id": 164,
           "name": "Fury",
-          "points": 6,
+          "points": 7,
           "talents": [
             {
               "id": 105939,
@@ -372,8 +372,8 @@
               "id": 105937,
               "spellId": 12322,
               "name": "Unbridled Wrath",
-              "description": "Gives you a 12% chance to generate 1 additional Rage when you deal melee damage with a weapon.",
-              "rank": 1
+              "description": "Gives you a 24% chance to generate 1 additional Rage when you deal melee damage with a weapon.",
+              "rank": 2
             }
           ]
         },
@@ -548,7 +548,7 @@
       ],
       [
         21,
-        29769
+        19892
       ],
       [
         14,
@@ -556,7 +556,7 @@
       ]
     ]
   },
-  "fetchedAt": 1795792878867,
-  "fromCache": false,
+  "fetchedAt": 1795818929299,
+  "fromCache": true,
   "raceRanks": null
 }
