@@ -2,7 +2,7 @@
   "schema": 10,
   "blizzardId": 7332859,
   "name": "Chubby Cheekz",
-  "level": 50,
+  "level": 51,
   "race": "Troll",
   "raceId": 8,
   "className": "Warrior",
@@ -12,7 +12,7 @@
   "guild": "WASTEMANS",
   "guildSlug": "wastemans",
   "guildServer": null,
-  "lastLogin": 1795707105000,
+  "lastLogin": 1795754966000,
   "region": "us",
   "server": "normal",
   "serverName": null,
@@ -58,11 +58,11 @@
       "slot": "SHOULDER",
       "slotName": "Shoulders",
       "inventoryType": "SHOULDER",
-      "id": 19037,
-      "name": "Emerald Peak Spaulders",
+      "id": 17779,
+      "name": "Hulkstone Pauldrons",
       "quality": "UNCOMMON",
-      "ilvl": 48,
-      "icon": "https://wow.zamimg.com/images/wow/icons/large/inv_shoulder_26.jpg",
+      "ilvl": 49,
+      "icon": "https://wow.zamimg.com/images/wow/icons/large/inv_shoulder_23.jpg",
       "setName": null,
       "setPieces": [],
       "enchant": null,
@@ -154,11 +154,11 @@
       "slot": "WRIST",
       "slotName": "Wrist",
       "inventoryType": "WRIST",
-      "id": 251965,
-      "name": "Undead Knight's Bracers",
+      "id": 14853,
+      "name": "Sunscale Wristguards",
       "quality": "UNCOMMON",
-      "ilvl": 36,
-      "icon": "https://wow.zamimg.com/images/wow/icons/large/inv_bracer_16.jpg",
+      "ilvl": 48,
+      "icon": "https://wow.zamimg.com/images/wow/icons/large/inv_bracer_09.jpg",
       "setName": null,
       "setPieces": [],
       "enchant": null,
@@ -266,11 +266,11 @@
       "slot": "MAIN_HAND",
       "slotName": "Main Hand",
       "inventoryType": "WEAPON",
-      "id": 10804,
-      "name": "Fist of the Damned",
+      "id": 17705,
+      "name": "Thrash Blade",
       "quality": "RARE",
-      "ilvl": 54,
-      "icon": "https://wow.zamimg.com/images/wow/icons/large/inv_hammer_11.jpg",
+      "ilvl": 53,
+      "icon": "https://wow.zamimg.com/images/wow/icons/large/inv_sword_36.jpg",
       "setName": null,
       "setPieces": [],
       "enchant": null,
@@ -282,11 +282,11 @@
       "slot": "OFF_HAND",
       "slotName": "Off Hand",
       "inventoryType": "SHIELD",
-      "id": 275051,
-      "name": "Twilight Barrier",
-      "quality": "UNCOMMON",
-      "ilvl": 46,
-      "icon": "https://wow.zamimg.com/images/wow/icons/large/inv_shield_03.jpg",
+      "id": 275864,
+      "name": "Putridus Wall",
+      "quality": "RARE",
+      "ilvl": 50,
+      "icon": "https://wow.zamimg.com/images/wow/icons/large/inv_shield_13.jpg",
       "setName": null,
       "setPieces": [],
       "enchant": null,
@@ -311,32 +311,32 @@
       "socketBonus": null
     }
   ],
-  "averageIlvl": 44,
-  "gearscore": 478,
+  "averageIlvl": 45,
+  "gearscore": 499,
   "stats": {
-    "health": 2969,
+    "health": 3141,
     "power": 100,
     "powerType": "Rage",
-    "strength": 181,
-    "agility": 83,
-    "stamina": 207,
-    "intellect": 27,
-    "spirit": 58,
+    "strength": 170,
+    "agility": 79,
+    "stamina": 219,
+    "intellect": 26,
+    "spirit": 59,
     "spellPower": 0,
     "healing": 0,
     "spellCrit": 0,
     "spellHaste": 0,
     "spellPenetration": 0,
     "manaRegen": 0,
-    "attackPower": 512,
-    "meleeCrit": 10.02,
+    "attackPower": 493,
+    "meleeCrit": 9.02,
     "meleeHaste": 0,
-    "rangedCrit": 4.1,
-    "armor": 3863,
-    "defense": 284,
-    "dodge": 6.42,
-    "parry": 12.29,
-    "block": 11.36
+    "rangedCrit": 3.62,
+    "armor": 4272,
+    "defense": 290,
+    "dodge": 6.1,
+    "parry": 12.33,
+    "block": 12.4
   },
   "talents": [
     {
@@ -359,7 +359,7 @@
         {
           "id": 164,
           "name": "Fury",
-          "points": 5,
+          "points": 6,
           "talents": [
             {
               "id": 105939,
@@ -367,6 +367,13 @@
               "name": "Cruelty",
               "description": "Improves your chance to get a critical strike with melee attacks by 5%.",
               "rank": 5
+            },
+            {
+              "id": 105937,
+              "spellId": 12322,
+              "name": "Unbridled Wrath",
+              "description": "Gives you a 12% chance to generate 1 additional Rage when you deal melee damage with a weapon.",
+              "rank": 1
             }
           ]
         },
@@ -505,7 +512,7 @@
       ],
       [
         3,
-        16458
+        29955
       ],
       [
         4,
@@ -529,7 +536,7 @@
       ],
       [
         9,
-        737789
+        22593
       ],
       [
         10,
@@ -541,15 +548,15 @@
       ],
       [
         21,
-        19892
+        29769
       ],
       [
         14,
-        740275
+        739863
       ]
     ]
   },
-  "fetchedAt": 1795732043788,
+  "fetchedAt": 1795756224952,
   "fromCache": false,
   "raceRanks": null
 }
