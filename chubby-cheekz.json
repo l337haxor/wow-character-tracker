@@ -12,7 +12,7 @@
   "guild": "WASTEMANS",
   "guildSlug": "wastemans",
   "guildServer": null,
-  "lastLogin": 1795818880000,
+  "lastLogin": 1795843059000,
   "region": "us",
   "server": "normal",
   "serverName": null,
@@ -122,11 +122,11 @@
       "slot": "LEGS",
       "slotName": "Legs",
       "inventoryType": "LEGS",
-      "id": 15470,
-      "name": "Plainsguard Leggings",
+      "id": 19124,
+      "name": "Slagplate Leggings",
       "quality": "UNCOMMON",
-      "ilvl": 29,
-      "icon": "https://wow.zamimg.com/images/wow/icons/large/inv_pants_03.jpg",
+      "ilvl": 48,
+      "icon": "https://wow.zamimg.com/images/wow/icons/large/inv_pants_04.jpg",
       "setName": null,
       "setPieces": [],
       "enchant": null,
@@ -218,11 +218,11 @@
       "slot": "TRINKET_1",
       "slotName": "Trinket 1",
       "inventoryType": "TRINKET",
-      "id": 11122,
-      "name": "Carrot on a Stick",
+      "id": 270226,
+      "name": "Golden Banana",
       "quality": "UNCOMMON",
       "ilvl": 50,
-      "icon": "https://wow.zamimg.com/images/wow/icons/large/inv_misc_food_54.jpg",
+      "icon": "https://wow.zamimg.com/images/wow/icons/large/inv_misc_food_24.jpg",
       "setName": null,
       "setPieces": [],
       "enchant": null,
@@ -311,15 +311,15 @@
       "socketBonus": null
     }
   ],
-  "averageIlvl": 45,
-  "gearscore": 500,
+  "averageIlvl": 46,
+  "gearscore": 518,
   "stats": {
-    "health": 3215,
+    "health": 3255,
     "power": 100,
     "powerType": "Rage",
-    "strength": 172,
+    "strength": 177,
     "agility": 80,
-    "stamina": 221,
+    "stamina": 225,
     "intellect": 26,
     "spirit": 59,
     "spellPower": 0,
@@ -328,15 +328,15 @@
     "spellHaste": 0,
     "spellPenetration": 0,
     "manaRegen": 0,
-    "attackPower": 500,
-    "meleeCrit": 9.54,
+    "attackPower": 510,
+    "meleeCrit": 9.7,
     "meleeHaste": 0,
-    "rangedCrit": 3.42,
-    "armor": 4274,
-    "defense": 295,
-    "dodge": 6.1,
-    "parry": 12.33,
-    "block": 12.4
+    "rangedCrit": 3.62,
+    "armor": 4508,
+    "defense": 302,
+    "dodge": 6.38,
+    "parry": 12.61,
+    "block": 12.68
   },
   "talents": [
     {
@@ -528,7 +528,7 @@
       ],
       [
         7,
-        28290
+        14875
       ],
       [
         8,
@@ -556,7 +556,7 @@
       ]
     ]
   },
-  "fetchedAt": 1795822630714,
+  "fetchedAt": 1795853275590,
   "fromCache": false,
   "raceRanks": null
 }

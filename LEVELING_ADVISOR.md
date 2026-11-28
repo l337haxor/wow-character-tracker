@@ -5,7 +5,7 @@
 
 **Character:** level 52 Troll Warrior · 778 completed quests · 26 active quests
 
-**Armory fetched:** 2026-11-27 23:37 UTC · **Quest export saved:** 2026-11-27 22:34 UTC
+**Armory fetched:** 2026-11-28 08:07 UTC · **Quest export saved:** 2026-11-27 22:34 UTC
 
 **Weapon:** Fist of the Damned · **Off-hand/shield:** Putridus Wall
 
